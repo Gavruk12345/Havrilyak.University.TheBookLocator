@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Lab\\Web\\Personal_project\\WorkWise\\WorkWise\\WorkWise.csproj": {}
+    "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\WorkWise.csproj": {}
   },
   "projects": {
-    "D:\\Lab\\Web\\Personal_project\\WorkWise\\WorkWise\\WorkWise.csproj": {
+    "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\WorkWise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Lab\\Web\\Personal_project\\WorkWise\\WorkWise\\WorkWise.csproj",
+        "projectUniqueName": "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\WorkWise.csproj",
         "projectName": "WorkWise",
-        "projectPath": "D:\\Lab\\Web\\Personal_project\\WorkWise\\WorkWise\\WorkWise.csproj",
+        "projectPath": "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\WorkWise.csproj",
         "packagesPath": "C:\\Users\\Amigo_webos\\.nuget\\packages\\",
-        "outputPath": "D:\\Lab\\Web\\Personal_project\\WorkWise\\WorkWise\\obj\\",
+        "outputPath": "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

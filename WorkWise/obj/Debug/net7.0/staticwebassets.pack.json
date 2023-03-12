@@ -5,12 +5,28 @@
       "PackagePath": "staticwebassets\\WorkWise.bundle.scp.css"
     },
     {
+      "Id": "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Shapka.css",
+      "PackagePath": "staticwebassets\\css\\Shapka.css"
+    },
+    {
       "Id": "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\fonts\\Montserrat-VariableFont_wght.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-VariableFont_wght.woff2"
+    },
+    {
+      "Id": "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\WorkWiseLogo.PNG",
+      "PackagePath": "staticwebassets\\image\\WorkWiseLogo.PNG"
+    },
+    {
+      "Id": "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\WorkWiseLogoV2.PNG",
+      "PackagePath": "staticwebassets\\image\\WorkWiseLogoV2.PNG"
     },
     {
       "Id": "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\js\\site.js",

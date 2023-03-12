@@ -1,0 +1,82 @@
+﻿body {
+}
+
+.nav-item {
+    margin-right: 35px;
+}
+
+.button-62 {
+    background-image: radial-gradient(circle at 96.98% 17.11%, #ffdcc2 0, #ffcfbf 16.67%, #ffc1ba 33.33%, #ffb3b3 50%, #e7a5aa 66.67%, #d199a2 83.33%, #be8f9a 100%);
+    border: 0;
+    border-radius: 12px;
+    cursor: pointer;
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 2.5;
+    outline: transparent;
+    padding: 0 1rem;
+    text-align: center;
+    text-decoration: none;
+    transition: box-shadow .2s ease-in-out;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+}
+
+.button-62:not([disabled]):focus {
+    box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(239, 71, 101, 0.5), .125rem .125rem 1rem rgba(255, 154, 90, 0.5);
+}
+
+.button-62:not([disabled]):hover {
+    box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(239, 71, 101, 0.5), .125rem .125rem 1rem rgba(255, 154, 90, 0.5);
+}
+
+.button-42 {
+    background-image: radial-gradient(circle at 96.98% 17.11%, #ffffb3 0, #ffffb3 12.5%, #efffb2 25%, #dbffb1 37.5%, #c7ffaf 50%, #b5f3ad 62.5%, #a4e7ab 75%, #96ddaa 87.5%, #8ad4a9 100%);
+    border: 0;
+    border-radius: 12px;
+    cursor: pointer;
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 2.5;
+    outline: transparent;
+    padding: 0 1rem;
+    text-align: center;
+    text-decoration: none;
+    transition: box-shadow .2s ease-in-out;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+}
+
+    .button-42:not([disabled]):focus {
+        box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(57, 255, 20, 0.5), .125rem .125rem 1rem rgba(57, 255, 20, 0.5);
+    }
+
+    .button-42:not([disabled]):hover {
+        box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(57, 255, 20, 0.5), .125rem .125rem 1rem rgba(57, 255, 20, 0.5);
+    }
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/fonts/Montserrat-VariableFont_wght.woff2') format('woff2'), url('/fonts/montserrat.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.button-17 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.button-18 {
+    margin-left: 200px;
+}
+
+
+

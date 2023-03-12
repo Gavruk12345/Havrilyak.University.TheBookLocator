@@ -1,0 +1,12 @@
+D:\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Model\bin\Debug\net7.0\WorkWise.Model.deps.json
+D:\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Model\bin\Debug\net7.0\WorkWise.Model.dll
+D:\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Model\bin\Debug\net7.0\WorkWise.Model.pdb
+D:\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Model\obj\Debug\net7.0\WorkWise.Model.csproj.AssemblyReference.cache
+D:\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Model\obj\Debug\net7.0\WorkWise.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Model\obj\Debug\net7.0\WorkWise.Model.AssemblyInfoInputs.cache
+D:\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Model\obj\Debug\net7.0\WorkWise.Model.AssemblyInfo.cs
+D:\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Model\obj\Debug\net7.0\WorkWise.Model.csproj.CoreCompileInputs.cache
+D:\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Model\obj\Debug\net7.0\WorkWise.Model.dll
+D:\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Model\obj\Debug\net7.0\refint\WorkWise.Model.dll
+D:\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Model\obj\Debug\net7.0\WorkWise.Model.pdb
+D:\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Model\obj\Debug\net7.0\ref\WorkWise.Model.dll

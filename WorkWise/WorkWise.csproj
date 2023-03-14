@@ -22,4 +22,8 @@
     <None Include="Pages\Info.cshtml" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Pages\HomePage\" />
+  </ItemGroup>
+
 </Project>

@@ -11,33 +11,32 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white mb-3 ">
             <div class="container">
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between justify-content-sm-end">
-                   <div class="ml-auto">
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between justify-content-sm-end ">
+                    <div class="ml-auto navbar">
+                        <img class="logo" src="/image/image_layout/WW.png" alt="Logo" asp-area="" asp-page="/Index">
                         <ul class="navbar-nav flex-grow-1">
-                            <a class="navbar-brand" asp-area="" asp-page="/Index">
-                                <img src="~/image/WorkWiseLogoV2.png" alt="Logo" />
-                            </a>
                             <li class="nav-item">
-                                <a class="nav-link text-dark button-18 positioned" asp-area="" asp-page="/SearchForEmployers">Search for employers</a>
+                                <a class="nav-link text-dark button-17 positioned hover-underline-animation cta" asp-area="" asp-page="/SearchForEmployers">Employers</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link text-dark button-17 positioned" asp-area="" asp-page="/SearchForFreelancers">Search for freelancers</a>
+                                <a class="nav-link text-dark button-17 positioned" asp-area="" asp-page="/SearchForFreelancers">Freelancers</a>
                             </li> 
                             <li class="nav-item">
                                 <a class="nav-link text-dark button-17 positioned" asp-area="" asp-page="/Privacy">Info and Feedback</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link text-white button-62 " asp-area="" asp-page="/Registration">Registration</a>
+                                <a class="nav-link text-dark button-17 " asp-area="" asp-page="/Registration">Registration</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link text-dark button-42 " asp-area="" asp-page="/SignIn">Sign in</a>
+                                <a class="nav-link text-dark button-17 " asp-area="" asp-page="/SignIn">Sign in</a>
                             </li>
+
                         </ul>
                    </div>                                   
                 </div>
@@ -50,7 +49,7 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
+    <footer class="border-top footer text-muted bg-white">
         <div class="container">
             &copy; 2023 - Havrilyak.LNU.WorkWise.Web - <a asp-area="" asp-page="/Privacy">Privacy</a>
         </div>

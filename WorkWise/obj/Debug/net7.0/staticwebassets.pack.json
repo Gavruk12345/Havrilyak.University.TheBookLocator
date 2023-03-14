@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\WorkWise.bundle.scp.css"
     },
     {
+      "Id": "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\HomePage.css",
+      "PackagePath": "staticwebassets\\css\\HomePage.css"
+    },
+    {
       "Id": "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Shapka.css",
       "PackagePath": "staticwebassets\\css\\Shapka.css"
     },
@@ -21,12 +25,28 @@
       "PackagePath": "staticwebassets\\fonts\\Montserrat-VariableFont_wght.woff2"
     },
     {
-      "Id": "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\WorkWiseLogo.PNG",
-      "PackagePath": "staticwebassets\\image\\WorkWiseLogo.PNG"
+      "Id": "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_homepage\\Studen.png",
+      "PackagePath": "staticwebassets\\image\\image_homepage\\Studen.png"
     },
     {
-      "Id": "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\WorkWiseLogoV2.PNG",
-      "PackagePath": "staticwebassets\\image\\WorkWiseLogoV2.PNG"
+      "Id": "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_homepage\\pexels-vlada-karpovich-4050315.png",
+      "PackagePath": "staticwebassets\\image\\image_homepage\\pexels-vlada-karpovich-4050315.png"
+    },
+    {
+      "Id": "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_layout\\WW.PNG",
+      "PackagePath": "staticwebassets\\image\\image_layout\\WW.PNG"
+    },
+    {
+      "Id": "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_layout\\WWV1.PNG",
+      "PackagePath": "staticwebassets\\image\\image_layout\\WWV1.PNG"
+    },
+    {
+      "Id": "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_layout\\WorkWiseLogo.PNG",
+      "PackagePath": "staticwebassets\\image\\image_layout\\WorkWiseLogo.PNG"
+    },
+    {
+      "Id": "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_layout\\WorkWiseLogoV2.PNG",
+      "PackagePath": "staticwebassets\\image\\image_layout\\WorkWiseLogoV2.PNG"
     },
     {
       "Id": "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\js\\site.js",

@@ -1,4 +1,8 @@
-﻿/*using Microsoft.Extensions.Configuration;
+﻿/*
+using Microsoft.Extensions.Configuration;
+
+
+
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using WorkWise.Test;
@@ -36,3 +40,32 @@ public class TestBase
     }
 }
 */
+using WorkWise.Database.Service;
+using WorkWise.Database;
+using WorkWise.Model.Databases;
+using WorkWise.Database.Interfaces;
+
+namespace WorkWise.ConsoleApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Створення контексту бази даних
+            using (var dbContext = new StoreDb ontext())
+            {
+                // Створення нового клієнта
+                var newCustomer = new Customer
+                {
+                    
+                  Name = "dima"
+                    Email = "johndoe@example.com"
+                };
+
+                // Створення сервісу для роботи з клієнтами і додавання нового клієнта
+                var customerService = new CustomerService(dbContext);
+                customerService.AddCustomer(newCustomer);
+            }
+        }
+    }
+}

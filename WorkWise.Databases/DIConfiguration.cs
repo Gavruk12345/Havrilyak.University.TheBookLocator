@@ -4,7 +4,9 @@ using Microsoft.Extensions.DependencyInjection;
 using WorkWise.Model.Databases;
 using WorkWise.Database;
 using WorkWise.Databases;
-/*
+using WorkWise.Database.Interfaces;
+using WorkWise.Database.Service;
+
 namespace WorkWise.Database
 {
     public static class DIConfiguration
@@ -13,8 +15,8 @@ namespace WorkWise.Database
         {
             services.AddDbContext<StoreDbContext>((x) => x.UseSqlServer(configuration.GetConnectionString("StoreDbContext")));
 
-            services.AddScoped(typeof(IDbentityService<>), typeof(DbEntityService<>));
-            services.AddScoped
+            services.AddScoped(typeof(IDbEntityService<>), typeof(MyService<>));
+            //services.AddScoped<IDbEnityService<>>
         }
     }
-}*/
+}

@@ -16,7 +16,7 @@ namespace WorkWise.Database
             services.AddDbContext<StoreDbContext>((x) => x.UseSqlServer(configuration.GetConnectionString("StoreDbContext")));
 
             services.AddScoped(typeof(IDbEntityService<>), typeof(MyService<>));
-            //services.AddScoped<IDbEnityService<>>
+            services.AddScoped<CustomerService, CustomerService>();
         }
     }
 }

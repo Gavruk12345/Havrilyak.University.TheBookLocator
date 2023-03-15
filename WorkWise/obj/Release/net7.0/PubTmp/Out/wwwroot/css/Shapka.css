@@ -1,0 +1,73 @@
+﻿/*____________________________________________________________________________*/
+
+.my-layout {
+    opacity: 0.1; /* Змінюємо прозорість на 50% */
+}
+
+
+.nav-item {
+    margin-right: 50px;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/fonts/Montserrat-VariableFont_wght.woff2') format('woff2'), url('/fonts/montserrat.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.button-17 {
+    font-family: 'Montserrat', sans-serif;
+}
+.navbar-brand {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.button-18 {
+    margin-right: 50px;
+}
+
+
+/*________________________________________________________________________________*/
+
+
+
+
+.logo {
+    width: 120px;
+    cursor: pointer;
+    margin-right: 250px;
+}
+
+.navbar ul li {
+    
+    list-style: none;
+    display: inline-block;
+    position: relative;
+}
+
+    .navbar ul li a {
+        text-decoration: none;
+        color: #082c5b;
+        text-transform: uppercase;
+    }
+
+.navbar ul li::after {
+    content: '';
+    height: 3px;
+    width: 0%;
+    background: #303136;
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    transition: 0.5s;
+}
+.navbar ul li:hover::after{
+    width: 100%;
+
+}
+
+
+
+
+

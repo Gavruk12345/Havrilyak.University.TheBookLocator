@@ -1,0 +1,5 @@
+D:\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Test\obj\Debug\net7.0\WorkWise.Test.csproj.AssemblyReference.cache
+D:\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Test\obj\Debug\net7.0\WorkWise.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Test\obj\Debug\net7.0\WorkWise.Test.AssemblyInfoInputs.cache
+D:\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Test\obj\Debug\net7.0\WorkWise.Test.AssemblyInfo.cs
+D:\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Test\obj\Debug\net7.0\WorkWise.Test.csproj.CoreCompileInputs.cache

@@ -1,9 +1,21 @@
+
+
+
+// This method gets called by the runtime. Use this method to add services to the container.
 var builder = WebApplication.CreateBuilder(args);
+
+// The following line enables Application Insights telemetry collection.
+builder.Services.AddApplicationInsightsTelemetry();
+
+// This code adds other services for your application.
+builder.Services.AddMvc();
 
 // Add services to the container.
 builder.Services.AddRazorPages();
 
 var app = builder.Build();
+
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

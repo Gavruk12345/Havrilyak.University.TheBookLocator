@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using WorkWise.Database.Interfaces;
-using WorkWise.Database.Interfaces;
 using WorkWise.Model.Databases;
+using WorkWise.Pages;
 
 namespace WorkWise.Controllers
 {
@@ -15,7 +15,7 @@ namespace WorkWise.Controllers
         }
 
         [HttpPost]
-        public IActionResult Login(string name, string email)
+        public IActionResult SignIn([FromForm] string name, [FromForm] string email)
         {
             if (string.IsNullOrWhiteSpace(name) || string.IsNullOrWhiteSpace(email))
             {
@@ -25,11 +25,13 @@ namespace WorkWise.Controllers
 
             var customer = new Customer
             {
-                Name = name,
-                Email = email
+                Name = Request.Form["name"],
+                Email = Request.Form["email"]
             };
 
             _customerService.AddCustomer(customer);
+            _customerService.Save();
+
 
             return RedirectToAction("Index", "Home");
         }

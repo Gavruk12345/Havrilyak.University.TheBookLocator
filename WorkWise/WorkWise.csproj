@@ -9,6 +9,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Pages\HomePage\**" />
+    <Content Remove="Pages\HomePage\**" />
+    <EmbeddedResource Remove="Pages\HomePage\**" />
+    <None Remove="Pages\HomePage\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Remove="Pages\Info.cshtml" />
   </ItemGroup>
 
@@ -22,10 +29,6 @@
 
   <ItemGroup>
     <None Include="Pages\Info.cshtml" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Pages\HomePage\" />
   </ItemGroup>
 
   <ItemGroup>

@@ -11,10 +11,4 @@
     <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.21.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\WorkWise.Databases\WorkWise.Database.csproj" />
-    <ProjectReference Include="..\WorkWise.Model\WorkWise.Model.csproj" />
-    <ProjectReference Include="..\WorkWise\WorkWise.csproj" />
-  </ItemGroup>
-
 </Project>

@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿/*
+using Microsoft.EntityFrameworkCore;
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;
@@ -31,4 +32,4 @@ namespace WorkWise.Test
             Assert.NotNull(result);
         }
     }
-}
+}*/

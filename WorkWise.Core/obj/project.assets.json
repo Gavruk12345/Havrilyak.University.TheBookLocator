@@ -5983,23 +5983,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Amigo_webos\\.nuget\\packages\\": {},
+    "C:\\Users\\gamem\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise.Core\\WorkWise.Core.csproj",
+      "projectUniqueName": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise.Core\\WorkWise.Core.csproj",
       "projectName": "WorkWise.Core",
-      "projectPath": "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise.Core\\WorkWise.Core.csproj",
-      "packagesPath": "C:\\Users\\Amigo_webos\\.nuget\\packages\\",
-      "outputPath": "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise.Core\\obj\\",
+      "projectPath": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise.Core\\WorkWise.Core.csproj",
+      "packagesPath": "C:\\Users\\gamem\\.nuget\\packages\\",
+      "outputPath": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Amigo_webos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gamem\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -6015,14 +6015,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise.Databases\\WorkWise.Database.csproj": {
-              "projectPath": "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise.Databases\\WorkWise.Database.csproj"
+            "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise.Databases\\WorkWise.Database.csproj": {
+              "projectPath": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise.Databases\\WorkWise.Database.csproj"
             },
-            "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise.Model\\WorkWise.Model.csproj": {
-              "projectPath": "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise.Model\\WorkWise.Model.csproj"
+            "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise.Model\\WorkWise.Model.csproj": {
+              "projectPath": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise.Model\\WorkWise.Model.csproj"
             },
-            "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\WorkWise.csproj": {
-              "projectPath": "D:\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\WorkWise.csproj"
+            "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\WorkWise.csproj": {
+              "projectPath": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\WorkWise.csproj"
             }
           }
         }
@@ -6062,7 +6062,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -6,9 +6,11 @@ using WorkWise.Database;
 using WorkWise.Databases;
 using WorkWise.Database.Interfaces;
 using WorkWise.Database.Service;
+using System.Data.Entity;
 
 namespace WorkWise.Database
 {
+    /*
     public static class DIConfiguration
     {
         public static void RegisterDatabaseDependencies(this IServiceCollection services, IConfigurationRoot configuration)
@@ -18,5 +20,15 @@ namespace WorkWise.Database
             services.AddScoped(typeof(IDbEntityService<>), typeof(MyService<>));
             services.AddScoped<CustomerService, CustomerService>();
         }
+    }*/
+    public class DependencyRegistration
+    {
+        public static void Register(IServiceCollection services, string connectionString)
+        {
+            services.AddDbContext<StoreDbContext>(options => options.UseSqlServer(connectionString));
+
+            services.AddScoped<IUserService, UserService>();
+        }
     }
+
 }

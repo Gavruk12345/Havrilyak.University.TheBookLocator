@@ -5,8 +5,22 @@ namespace WorkWise.Pages
 {
     public class SignInModel : PageModel
     {
-        public void OnGet()
+
+        [HttpPost]
+        public IActionResult Create(SignInModel model)
         {
+            var client = new Customer
+            {
+                Name = model.Name,
+                Email = model.Email,
+            };
+
+            _customerService.Clients.Add(client);
+            _customerService.SaveChanges();
+
+            return RedirectToAction("Index");
         }
+
+
     }
 }

@@ -5,8 +5,8 @@ using WorkWise.Model.Databases;
 using WorkWise.Database;
 using WorkWise.Databases;
 using WorkWise.Database.Interfaces;
-using WorkWise.Database.Service;
 using System.Data.Entity;
+using WorkWise.Databases.Services;
 
 namespace WorkWise.Database
 {
@@ -27,7 +27,7 @@ namespace WorkWise.Database
         {
             services.AddDbContext<StoreDbContext>(options => options.UseSqlServer(connectionString));
 
-            services.AddScoped<IUserService, UserService>();
+            services.AddScoped<CustomerService, CustomerService>();
         }
     }
 

@@ -1,31 +1,40 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using WorkWise.Database.Service;
-using static Microsoft.ApplicationInsights.MetricDimensionNames.TelemetryContext; 
+using WorkWise.Database.Interfaces;
+using WorkWise.Database.Interfaces;
+using WorkWise.Model.Databases;
 
-namespace WorkWise.Database
+namespace WorkWise.Controllers
 {
     public class UserController : Controller
     {
-        private readonly IUserService _userService;
+        private readonly ICustomerService _customerService;
 
-        public UserController(IUserService userService)
+        public UserController(ICustomerService customerService)
         {
-            _userService = userService;
+            _customerService = customerService;
         }
 
         [HttpPost]
         public IActionResult Login(string name, string email)
         {
-            var user = new Customer { Name = name, Email = email };
-            _userService.AddCustomer(user);
+            if (string.IsNullOrWhiteSpace(name) || string.IsNullOrWhiteSpace(email))
+            {
+                ModelState.AddModelError("", "Name and email are required.");
+                return View();
+            }
+
+            var customer = new Customer
+            {
+                Name = name,
+                Email = email
+            };
+
+            _customerService.AddCustomer(customer);
+
             return RedirectToAction("Index", "Home");
         }
-
     }
-
 }
+
+
+

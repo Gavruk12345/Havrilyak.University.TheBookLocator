@@ -1,27 +1,34 @@
-﻿using System;
+﻿/*
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using WorkWise.Databases;
 using WorkWise.Model.Databases;
+using WorkWise.Database.Interfaces;
 using static Microsoft.ApplicationInsights.MetricDimensionNames.TelemetryContext;
 
 namespace WorkWise.Database.Service
 {
-    public class UserService : IUserService
+    public class UserService : ICustomerRepository
     {
-        private readonly StoreDbContext _storeDbContext;
+        private readonly ICustomerRepository _customerRepository;
 
-        public UserService(StoreDbContext dbContext)
+        public UserService(ICustomerRepository customerRepository)
         {
-            _storeDbContext = dbContext;
+            _customerRepository = customerRepository;
         }
 
-        public void AddUser(Customer user)
+        public void AddCustomer(Customer customer)
         {
-            _storeDbContext.Customers.Add(user);
-            _storeDbContext.SaveChanges();
+            _customerRepository.Add(customer);
+            _customerRepository.Save();
         }
     }
-}
+            
+    
+
+}*/
+
+

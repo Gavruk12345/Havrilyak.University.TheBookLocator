@@ -18,8 +18,4 @@
     <PackageReference Include="System.Linq.Async" Version="6.0.1" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\WorkWise\WorkWise.csproj" />
-  </ItemGroup>
-
 </Project>

@@ -1994,8 +1994,7 @@
           "Microsoft.Extensions.Logging.Debug": "7.0.0",
           "Microsoft.TestPlatform.Portable": "17.5.0",
           "NUnit": "3.13.3",
-          "System.Linq.Async": "6.0.1",
-          "WorkWise": "1.0.0"
+          "System.Linq.Async": "6.0.1"
         },
         "compile": {
           "bin/placeholder/WorkWise.Model.dll": {}

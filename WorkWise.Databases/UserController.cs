@@ -2,6 +2,7 @@
 using WorkWise.Database.Interfaces;
 using WorkWise.Model.Databases;
 using WorkWise;
+using Microsoft.AspNetCore.Authentication;
 
 namespace WorkWise.Database
 {
@@ -14,8 +15,13 @@ namespace WorkWise.Database
             _customerService = customerService;
         }
 
+        public IActionResult Create()
+        {
+            return View();
+        }
+
         [HttpPost]
-        public IActionResult SignIn([FromForm] string name, [FromForm] string email)
+        public IActionResult Signln([FromForm] string name, [FromForm] string email)
         {
             if (string.IsNullOrWhiteSpace(name) || string.IsNullOrWhiteSpace(email))
             {

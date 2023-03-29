@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\WorkWise",
+    "\\WorkWise.Databases",
     "\\WorkWise.Test",
     "\\WorkWise\\wwwroot"
   ],
-  "SelectedNode": "\\WorkWise.Test\\TestBase .cs",
+  "SelectedNode": "\\WorkWise.Databases\\UserController.cs",
   "PreviewInSolutionExplorer": false
 }

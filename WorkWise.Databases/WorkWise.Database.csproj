@@ -32,6 +32,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\WorkWise.Model\WorkWise.Model.csproj" />
+    <ProjectReference Include="..\WorkWise\WorkWise.csproj" />
   </ItemGroup>
 
   <ItemGroup>

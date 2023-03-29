@@ -35,6 +35,9 @@
             "projectReferences": {
               "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise.Model\\WorkWise.Model.csproj": {
                 "projectPath": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise.Model\\WorkWise.Model.csproj"
+              },
+              "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\WorkWise.csproj": {
+                "projectPath": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\WorkWise.csproj"
               }
             }
           }

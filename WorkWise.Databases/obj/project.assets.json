@@ -6137,6 +6137,7 @@
       "Microsoft.TestPlatform.Portable >= 17.5.0",
       "NUnit >= 3.13.3",
       "System.Linq.Async >= 6.0.1",
+      "WorkWise >= 1.0.0",
       "WorkWise.Model >= 1.0.0"
     ]
   },
@@ -6175,6 +6176,9 @@
           "projectReferences": {
             "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise.Model\\WorkWise.Model.csproj": {
               "projectPath": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise.Model\\WorkWise.Model.csproj"
+            },
+            "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\WorkWise.csproj": {
+              "projectPath": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\WorkWise.csproj"
             }
           }
         }

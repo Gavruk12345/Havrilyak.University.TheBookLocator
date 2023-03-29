@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using WorkWise.Database.Interfaces;
 using WorkWise.Model.Databases;
-using WorkWise.Pages;
+using WorkWise;
 
-namespace WorkWise.Controllers
+namespace WorkWise.Database
 {
     public class UserController : Controller
     {

@@ -2,14 +2,13 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
 
-namespace WorkWise.Pages
+namespace WorkWise.Pages;
+
+
+public class SignInModel : PageModel
 {
 
-    public class SignInModel : PageModel
-    {
-
-    }
 }
-    
+
 
 

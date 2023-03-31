@@ -143,3 +143,6 @@ C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Debug\net7.0
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Debug\net7.0\WorkWise.pdb
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Debug\net7.0\WorkWise.genruntimeconfig.cache
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Debug\net7.0\ref\WorkWise.dll
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Castle.Core.dll
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll

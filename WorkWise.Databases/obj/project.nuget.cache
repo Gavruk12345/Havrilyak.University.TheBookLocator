@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "lHvmPv/pNDuAe4wAj1QVCwUezZ7XIROqEhpSIC5IKQiLu1kJPYUYsWVpVkzAqbv2d2qu7NkQSjj9/fpN/haOOA==",
+  "dgSpecHash": "o5YibdI9XgT6HUQkSlgLTv8/SrMkJHv1wJ4ntEyFsBgbVH8tKAKZweHCLMLcBN/gVz+DsaMlPMba5lxVRwkvnA==",
   "success": true,
   "projectFilePath": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise.Databases\\WorkWise.Database.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gamem\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\gamem\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
-    "C:\\Users\\gamem\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
+    "C:\\Users\\gamem\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\gamem\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\gamem\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\gamem\\.nuget\\packages\\microsoft.applicationinsights\\2.21.0\\microsoft.applicationinsights.2.21.0.nupkg.sha512",

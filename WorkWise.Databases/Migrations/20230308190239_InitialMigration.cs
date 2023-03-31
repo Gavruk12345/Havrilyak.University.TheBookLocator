@@ -1,4 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore.Migrations;
+﻿/*using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
@@ -32,4 +32,4 @@ namespace WorkWise.Database.Migrations
                 name: "Customers");
         }
     }
-}
+}*/

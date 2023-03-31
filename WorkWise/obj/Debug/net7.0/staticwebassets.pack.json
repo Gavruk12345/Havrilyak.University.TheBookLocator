@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\css\\SingUp.css"
     },
     {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\about.css",
+      "PackagePath": "staticwebassets\\css\\about.css"
+    },
+    {
       "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -27,6 +31,10 @@
     {
       "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\fonts\\Montserrat-VariableFont_wght.woff2",
       "PackagePath": "staticwebassets\\fonts\\Montserrat-VariableFont_wght.woff2"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_about\\About1.png",
+      "PackagePath": "staticwebassets\\image\\image_about\\About1.png"
     },
     {
       "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_homepage\\Studen.png",

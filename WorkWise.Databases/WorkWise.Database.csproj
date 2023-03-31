@@ -35,8 +35,4 @@
     <ProjectReference Include="..\WorkWise\WorkWise.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Repository\" />
-  </ItemGroup>
-
 </Project>

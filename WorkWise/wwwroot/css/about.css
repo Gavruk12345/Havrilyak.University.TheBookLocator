@@ -1,0 +1,68 @@
+﻿body {
+    background-image: linear-gradient(315deg, #ffffff 0, #ffffff 12.5%, #ffffff 25%, #ffffff 37.5%, #f4f4f4 50%, #d4e1dc 62.5%, #b9d0c6 75%, #a6c1b1 87.5%, #98b59e 100%);
+}
+
+.about {
+    width: 100%;
+    padding: 100px 0px;
+}
+
+.about img{
+    height: auto;
+    width: 420px;
+    padding: 30px;
+}
+
+.about text{
+    width: 550px;
+
+}
+
+.main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.about-text h1 {
+    color: black;
+    font-size: 80px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.about-text h5 {
+    color: black;
+    font-size: 25px;
+    text-transform: capitalize;
+    margin-bottom: 25px;
+    letter-spacing: 2px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.about-text p {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+}
+
+button {
+    background: #B9E8E8;
+    color: black;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    transition: .4s;
+    font-family: 'Montserrat', sans-serif;
+}
+    button:hover {
+        background: transparent;
+        border: 2px solid #B9E8E8;
+        cursor: pointer;
+    }

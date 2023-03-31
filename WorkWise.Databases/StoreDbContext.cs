@@ -1,12 +1,7 @@
 ﻿
 
-/*namespace WorkWise.Databases
-{
-    public class StoreDbContext
-    {
 
-    }
-}*/
+/*
 using System;
 using Castle.Core.Resource;
 using Microsoft.EntityFrameworkCore;
@@ -31,4 +26,4 @@ namespace WorkWise.Databases
             optionsBuilder.UseSqlServer("Server=tcp:workwiseserver.database.windows.net,1433;Initial Catalog=WorkWise_Database;Persist Security Info=False;User ID=workwise;Password=rT5665tyyt;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;Server=tcp:workwiseserver.database.windows.net,1433;Initial Catalog=WorkWise_Database;Persist Security Info=False;User ID=workwise;Password=rT5665tyyt;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
         }
     }
-}
+}*/

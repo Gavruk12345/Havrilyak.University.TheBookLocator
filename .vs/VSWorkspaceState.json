@@ -3,9 +3,8 @@
     "",
     "\\WorkWise",
     "\\WorkWise.Databases",
-    "\\WorkWise.Test",
-    "\\WorkWise\\wwwroot"
+    "\\WorkWise.Test"
   ],
-  "SelectedNode": "\\WorkWise.Databases\\UserController.cs",
+  "SelectedNode": "\\WorkWise\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

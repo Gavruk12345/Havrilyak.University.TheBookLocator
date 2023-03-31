@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,4 +11,4 @@ namespace WorkWise.Model.Databases
         public string? Name { get; set; }
         public string? Email { get; set; }
     }
-}
+}*/

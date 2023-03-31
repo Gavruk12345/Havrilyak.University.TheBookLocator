@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿/*using Microsoft.AspNetCore.Mvc;
 using WorkWise.Database.Interfaces;
 using WorkWise.Model.Databases;
 using WorkWise;
@@ -42,7 +42,7 @@ namespace WorkWise.Database
             return RedirectToAction("Index", "Home");
         }
     }
-}
+}*/
 
 
 

@@ -1,4 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿/*using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using WorkWise.Model.Databases;
@@ -21,7 +21,9 @@ namespace WorkWise.Database
             services.AddScoped<CustomerService, CustomerService>();
         }
     }*/
-    public class DependencyRegistration
+
+/*
+public class DependencyRegistration
     {
         public static void Register(IServiceCollection services, string connectionString)
         {
@@ -31,4 +33,4 @@ namespace WorkWise.Database
         }
     }
 
-}
+}*/

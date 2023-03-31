@@ -1,0 +1,36 @@
+﻿@page
+@model WorkWise.Pages.SignInModel
+@{
+}
+
+<html>
+    <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Havrilyak.LNU.WorkWise.Web</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/WorkWise.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/SingUp.css" asp-append-version="true" />
+</head>
+
+<body>
+    <div class="center">
+        <h1>Login</h1>
+        <form method="post">
+            <div class="txt_field">
+                <input type="text" id="name" name="name" required>
+                <span></span>
+                <label for="name">Name:</label>
+            </div>
+            <div class="txt_field">
+                <input type="password" id="email" name="email" required>
+                <span></span>
+                <label for="email">Email:</label>
+            </div>
+            <div class="pass">Forgot Password?</div>
+            <input type="submit" value="Login">
+        </form>
+    </div>
+</body>
+</html>

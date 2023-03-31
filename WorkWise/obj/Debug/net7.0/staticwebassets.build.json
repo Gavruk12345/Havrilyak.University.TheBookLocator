@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WqPQNa7ABcf+Huq+q9gMykERnIr7NAsR/u9RDeibBL8=",
+  "Hash": "pax1dNDyHlSbMGeP0q0GJDn2HKWCQ9iUN6erR+K/N5w=",
   "Source": "WorkWise",
   "BasePath": "_content/WorkWise",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WorkWise.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\about.css",
+      "SourceId": "WorkWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "BasePath": "_content/WorkWise",
+      "RelativePath": "css/about.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\about.css"
     },
     {
       "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\HomePage.css",
@@ -151,6 +168,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\fonts\\Montserrat-VariableFont_wght.woff2"
+    },
+    {
+      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_about\\About1.png",
+      "SourceId": "WorkWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "BasePath": "_content/WorkWise",
+      "RelativePath": "image/image_about/About1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\image_about\\About1.png"
     },
     {
       "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_homepage\\pexels-vlada-karpovich-4050315.png",

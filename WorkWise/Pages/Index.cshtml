@@ -17,15 +17,94 @@
     </head>
 
 <body>
-       <div class="content">
-            <h1>Find a solution right now</h1>
-            <p>This site will help you find a contractor or employer, choose a direction below</p>
-            <div>
-                <button type="button"><span></span>For Frelancer</button>
-                <button type="button"><span></span>For Employmen</button>
-            </div>
+     <section class="home">
+        <video class="video-slide active" src="/video/programing.mp4" autoplay muted loop></video>
+        <video class="video-slide" src="/video/design.mp4" autoplay muted loop></video>
+        <video class="video-slide" src="/video/copiraiting.mp4" autoplay muted loop></video>
+        <video class="video-slide" src="/video/Langvich.mp4" autoplay muted loop></video>
+        <video class="video-slide" src="/video/Markrting.mp4" autoplay muted loop></video>
+        <video class="video-slide" src="/video/sunset.mp4" autoplay muted loop></video>
 
-       </div>
+
+
+         <div class="content active">
+            <h1>WorkWise.<br><span>Programming</span></h1>
+            <p>A freelance programmer on the exchange is a person who works on programming projects for a fee, usually using a means of remote communication, which provides the opportunity to collaborate with clients from all over the world and work at a time that is convenient for them.</p>
+            <a href="#">Go to</a>
+         </div>
+        <div class="content">
+            <h1>WorkWise.<br><span>Design</span></h1>
+            <p>A freelance designer on the stock exchange is a creative individual who offers his services in the creation of graphic design, from logos and web design to banners and illustrations, collaborating with clients from all over the world and solving their business challenges in a visual way.</p>
+            <a href="#">Go to</a>
+        </div>
+        <div class="content">
+            <h1>WorkWise.<br><span>Copiraiting</span></h1>
+            <p>A freelance stock copywriter is someone who writes content for a variety of tasks, from articles and blogs to press releases and advertisements, working with clients around the world and serving their business content needs..</p>
+            <a href="#">Go to</a>
+        </div>
+        <div class="content">
+            <h1>WorkWise.<br><span>Translation</span></h1>
+            <p>A freelance translator on the exchange is a person who provides text translation services from one language to another, working with clients from all over the world and helping them to communicate between different cultures and languages. He can do work in any field and in any language depending on his skills and knowledge..</p>
+            <a href="#">Go to</a>
+        </div>
+        <div class="content">
+            <h1>WorkWise.<br><span>Business</span></h1>
+            <p>A freelance marketer on the stock exchange is an expert in the field of marketing who offers his services to clients from all over the world. It can provide a variety of services such as strategic marketing campaign planning, SEO optimization, social media management and others.</p>
+            <a href="#">Go to</a>
+        </div>
+        <div class="content">
+            <h1>WorkWise.<br><span>LifeStyle</span></h1>
+            <p>And many other jobs and freelancers are waiting for you.</p>
+            <a href="#">Go to</a>
+        </div>
+         <div class="media-icons">
+             <a href="#"></a>
+         </div>
+         <div class="slider-navigation">
+             <div class="nav-btn active"></div>
+             <div class="nav-btn"></div>
+             <div class="nav-btn"></div>
+             <div class="nav-btn"></div>
+             <div class="nav-btn"></div>
+            <div class="nav-btn"></div>
+         </div>
+     </section>
+
+     <script type="text/javascript">
+       //Javascript for video slider navigation
+
+        const btns = document.querySelectorAll(".nav-btn")
+        const slides = document.querySelectorAll(".video-slide")
+        const contents = document.querySelectorAll(".content")
+
+
+        var sliderNav = function(manual){
+            btns.forEach((btn) => {
+                btn.classList.remove("active");
+            });
+
+            slides.forEach((slide) => {
+                slide.classList.remove("active");
+            });
+
+            contents.forEach((content) => {
+                content.classList.remove("active");
+            });
+
+
+            btns[manual].classList.add("active");
+            slides[manual].classList.add("active");
+            contents[manual].classList.add("active");
+
+        }
+
+        btns.forEach((btn, i) => {
+            btn.addEventListener("click", () => {
+                sliderNav(i);
+
+            });
+        });
+     </script>
 </body>
 <</html>
 

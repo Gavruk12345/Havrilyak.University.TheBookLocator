@@ -1,73 +1,138 @@
 ﻿*{
     margin: 0;
     padding: 0;
-    font-family: sans-serif;
+    box-sizing: border-box;
+    font-family: "Poppins" sans-serif;
 
 }
-
 body {
-    width: 100%;
-    height: 100vh;
-    background-image: radial-gradient(circle at 100.64% 50%, #0056cf 0, #0055da 6.25%, #0053e1 12.5%, #004fe5 18.75%, #004ae5 25%, #0043e2 31.25%, #0039db 37.5%, #002ad1 43.75%, #0f0fc4 50%, #5900b4 56.25%, #7900a3 62.5%, #90008f 68.75%, #a0007b 75%, #ab0066 81.25%, #b20051 87.5%, #b6003c 93.75%, #b60029 100%);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    height: auto;
-}
+    background-color: #2696E9;
+    margin: 0;
+    align-items: center; /* додано новий рядок */
 
-.content {
-    margin-top: 350px;
-    width: 100%;
-    position: center;
-    top: 50%;
-    transform: translateY(-50%);
-    text-align: center;
-    color: #fff;
-}
-
-.content h1{
-    font-size: 70px;
-    margin-top: 80px;
-}
-.content p{
-    margin: 20px auto;
-    font-weight: 100;
-    line-height: 25px;
-
-}
-
-button{
-    width: 200px;
-    padding: 15px 0;
-    text-align: center;
-    margin: 20px 10px;
-    border-radius: 25px;
-    font-weight: bold;
-    border: 2px solid #009688;
-    background: transparent;
-    color: #fff;
-    cursor: pointer;
-    position: relative;
     overflow: hidden;
-
-}
-
-span{
-    background: #009688;
     height: 100%;
-    width: 0;
-    border-radius: 25px;
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    z-index: -1;
-    transition: 0.5s;
 }
 
-button:hover span{
+section{
+    padding: 50px 100px;
+}
+
+.home {
+    position: relative;
     width: 100%;
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background: #2696E9;
 }
 
-button:hover{
-    border: none;
+.home:before{
+    z-index: 777;
+    content: '';
+    position: absolute;
+    background: rgba(3, 96, 251, 1);
+}
+
+.home .content{
+    z-index: 888;
+    color: #fff;
+    width: 70%;
+    margin-top: 50px;
+    display: none;
+}
+
+.home .content.active{
+    display: block;
+
+}
+
+.home .content h1 {
+        font-size: 4em;
+        font-weight: 900;
+        text-transform: uppercase;
+        letter-spacing: 5px;
+        line-height: 75px;
+        margin-bottom: 40px;
+    }
+
+.home .content h1 span {
+    font-size: 1.2em;
+    font-weight: 600;
+
+}
+
+.home .content p{
+    margin-bottom: 65px;
+
+}
+
+.home .content a {
+    background: #fff;
+    padding: 15px 35px;
+    color: #1680AC;
+    font-size: 1.1em;
+    font-weight: 500;
+    text-decoration: none;
+    border-radius: 2px;
+
+}
+
+.home video {
+    z-index: 000;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+}
+
+.slider-navigation{
+    z-index: 888;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translateY(80px);
+    margin-bottom: 12px;
+}
+
+.slider-navigation .nav-btn{
+    width: 12px;
+    height: 12px;
+    background: #fff;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 0 2px rgba(255, 255, 255, 0.5);
+    transition: 0.3s ease;
+}
+
+.slider-navigation .nav-btn.active {
+
+    background: #2696E9;
+
+}
+.slider-navigation .nav-btn:not(:last-child) {
+        margin-right: 20px;
+
+}
+
+.slider-navigation .nav-btn:hover {
+        transform: scale(1.2);
+}
+
+.video-slide{
+    position: absolute;
+    width: 100%;
+    clip-path: circle(0% at 0 50%);
+
+}
+.video-slide.active{
+    clip-path: circle(150% at 0 50%);
+    transition: 2s ease;
+    transition-property: clip-path;
+
+
 }

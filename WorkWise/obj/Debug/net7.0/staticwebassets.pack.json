@@ -293,6 +293,34 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\video\\Langvich.mp4",
+      "PackagePath": "staticwebassets\\video\\Langvich.mp4"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\video\\Markrting.mp4",
+      "PackagePath": "staticwebassets\\video\\Markrting.mp4"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\video\\another work.mp4",
+      "PackagePath": "staticwebassets\\video\\another work.mp4"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\video\\copiraiting.mp4",
+      "PackagePath": "staticwebassets\\video\\copiraiting.mp4"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\video\\design.mp4",
+      "PackagePath": "staticwebassets\\video\\design.mp4"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\video\\programing.mp4",
+      "PackagePath": "staticwebassets\\video\\programing.mp4"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\video\\sunset.mp4",
+      "PackagePath": "staticwebassets\\video\\sunset.mp4"
+    },
+    {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WorkWise.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

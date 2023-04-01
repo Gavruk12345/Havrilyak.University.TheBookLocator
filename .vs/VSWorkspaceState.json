@@ -3,8 +3,11 @@
     "",
     "\\WorkWise",
     "\\WorkWise.Databases",
-    "\\WorkWise.Test"
+    "\\WorkWise.Test",
+    "\\WorkWise\\Pages",
+    "\\WorkWise\\wwwroot",
+    "\\WorkWise\\wwwroot\\css"
   ],
-  "SelectedNode": "\\WorkWise\\Program.cs",
+  "SelectedNode": "\\WorkWise\\wwwroot\\css\\Shapka.css",
   "PreviewInSolutionExplorer": false
 }

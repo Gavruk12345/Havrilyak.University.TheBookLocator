@@ -1,5 +1,5 @@
 ﻿body {
-    background-image: linear-gradient(225deg, #b7e1d1 0, #b4e1d5 4.17%, #b2e1d9 8.33%, #b0e1de 12.5%, #aee1e2 16.67%, #aee1e6 20.83%, #afe0ea 25%, #b0dfed 29.17%, #b2dff0 33.33%, #b5def3 37.5%, #b9ddf5 41.67%, #bddbf6 45.83%, #c2daf7 50%, #c7d9f7 54.17%, #cdd7f7 58.33%, #d2d6f6 62.5%, #d8d4f4 66.67%, #ddd3f2 70.83%, #e2d2f0 75%, #e7d0ed 79.17%, #ebcfe9 83.33%, #efcee5 87.5%, #f2cee1 91.67%, #f5cddd 95.83%, #f7cdd9 100%);
+    background-image: radial-gradient(circle at 111.24% 14.64%, #ffd7af 0, #ffd9ac 10%, #ffdbaa 20%, #fbdea9 30%, #f5e0a9 40%, #eee2a9 50%, #e7e4aa 60%, #e0e6ac 70%, #d8e8af 80%, #d1eab3 90%, #c9ebb7 100%);
 }
 
 .row {

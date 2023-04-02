@@ -9,19 +9,19 @@ body {
     background-color: #2696E9;
     margin: 0;
     align-items: center; /* додано новий рядок */
-
+    height: auto;
     overflow: hidden;
-    height: 100%;
+    
 }
 
 section{
-    padding: 50px 100px;
+    padding: 200px 100px;
 }
 
 .home {
+    height: auto;
     position: relative;
     width: 100%;
-    
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -79,15 +79,15 @@ section{
 
 }
 
-.home video {
-    z-index: 000;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    object-fit: cover;
-}
+    .home video {
+        height: auto;
+        z-index: 000;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100vw;
+        object-fit: cover;
+    }
 
 .slider-navigation{
     z-index: 888;

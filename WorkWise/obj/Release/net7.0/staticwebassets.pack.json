@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\WorkWise.bundle.scp.css"
     },
     {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Catalog.css",
+      "PackagePath": "staticwebassets\\css\\Catalog.css"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Catalog2.css",
+      "PackagePath": "staticwebassets\\css\\Catalog2.css"
+    },
+    {
       "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\HomePage.css",
       "PackagePath": "staticwebassets\\css\\HomePage.css"
     },
@@ -31,6 +39,58 @@
     {
       "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\fonts\\Montserrat-VariableFont_wght.woff2",
       "PackagePath": "staticwebassets\\fonts\\Montserrat-VariableFont_wght.woff2"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\Design.jpg",
+      "PackagePath": "staticwebassets\\image\\Image_frelancerCatalog\\Design.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\Finance.jpg",
+      "PackagePath": "staticwebassets\\image\\Image_frelancerCatalog\\Finance.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\Marketing.jpg",
+      "PackagePath": "staticwebassets\\image\\Image_frelancerCatalog\\Marketing.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\Writen.jpg",
+      "PackagePath": "staticwebassets\\image\\Image_frelancerCatalog\\Writen.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\admin_suport.jpg",
+      "PackagePath": "staticwebassets\\image\\Image_frelancerCatalog\\admin_suport.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\architect.jpg",
+      "PackagePath": "staticwebassets\\image\\Image_frelancerCatalog\\architect.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\legal.jpg",
+      "PackagePath": "staticwebassets\\image\\Image_frelancerCatalog\\legal.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\photo_2023-04-01_21-04-58.jpg",
+      "PackagePath": "staticwebassets\\image\\Image_frelancerCatalog\\photo_2023-04-01_21-04-58.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\programing.jpg",
+      "PackagePath": "staticwebassets\\image\\Image_frelancerCatalog\\programing.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\translate.jpg",
+      "PackagePath": "staticwebassets\\image\\Image_frelancerCatalog\\translate.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\icon_home\\agreement.png",
+      "PackagePath": "staticwebassets\\image\\icon_home\\agreement.png"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\icon_home\\fullscreen.png",
+      "PackagePath": "staticwebassets\\image\\icon_home\\fullscreen.png"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\icon_home\\promotion.png",
+      "PackagePath": "staticwebassets\\image\\icon_home\\promotion.png"
     },
     {
       "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_about\\About1.png",

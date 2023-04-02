@@ -25,6 +25,7 @@
 
   <ItemGroup>
     <_ContentIncludedByDefault Remove="Pages\Info.cshtml" />
+    <_ContentIncludedByDefault Remove="wwwroot\css\Catalog.css" />
   </ItemGroup>
 
   <ItemGroup>
@@ -47,6 +48,7 @@
 
   <ItemGroup>
     <Folder Include="Controllers\" />
+    <Folder Include="wwwroot\image\icon_home\" />
   </ItemGroup>
 
 </Project>

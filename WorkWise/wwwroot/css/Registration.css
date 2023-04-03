@@ -4,14 +4,17 @@
 
 body {
     
-    
-    background: linear-gradient(135deg, #71b7e6, #9b59b6);
-    
+    background-image: linear-gradient(180deg, #f5e4b1 0, #f6dca8 10%, #f7d49f 20%, #f7cb95 30%, #f7c18d 40%, #f7b684 50%, #f7ab7d 60%, #f7a078 70%, #f79675 80%, #f68c74 90%, #f68275 100%);
 }
 
-.container {
-    margin-top: 50px; /* відступ від хедера */
-    margin-bottom: 50px; /* відступ від підвалу */
+
+
+.gol{
+    margin-top: 100px;
+}
+
+.mainteiner {
+    margin: 100px auto 50px;
     max-width: 700px;
     width: 100%;
     background-color: #fff;
@@ -20,22 +23,19 @@ body {
     box-shadow: 0 5px 10px rgba(0,0,0,0.15);
 }
 
-    .container .title {
+    .mainteiner .title {
+        font-family: 'Montserrat', sans-serif;
         font-size: 25px;
         font-weight: 500;
         position: relative;
+        text-align: center;
+        margin-bottom: 20px;
     }
 
-        .container .title::before {
-            content: "";
-            position: absolute;
-            left: 0;
-            bottom: 0;
-            height: 3px;
-            width: 30px;
-            border-radius: 5px;
-            background: linear-gradient(135deg, #71b7e6, #9b59b6);
-        }
+.content {
+    font-family: 'Montserrat', sans-serif;
+}
+
 
 .content form .user-details {
     display: flex;
@@ -69,7 +69,7 @@ form .input-box span.details {
 
     .user-details .input-box input:focus,
     .user-details .input-box input:valid {
-        border-color: #9b59b6;
+        border-color: #F18C3F;
     }
 
 form .gender-details .gender-title {
@@ -127,16 +127,16 @@ form .button {
         letter-spacing: 1px;
         cursor: pointer;
         transition: all 0.3s ease;
-        background: linear-gradient(135deg, #71b7e6, #9b59b6);
+        background-image: linear-gradient(180deg, #f5e4b1 0, #f6dca8 10%, #f7d49f 20%, #f7cb95 30%, #f7c18d 40%, #f7b684 50%, #f7ab7d 60%, #f7a078 70%, #f79675 80%, #f68c74 90%, #f68275 100%);
     }
 
         form .button input:hover {
             /* transform: scale(0.99); */
-            background: linear-gradient(-135deg, #71b7e6, #9b59b6);
+            background-image: linear-gradient(135deg, #ffef93 0, #ffdd8f 16.67%, #ffca8a 33.33%, #f7b684 50%, #e3a37e 66.67%, #d19379 83.33%, #c08675 100%);
         }
 
 @media(max-width: 584px) {
-    .container {
+    .mainteiner {
         max-width: 100%;
     }
 
@@ -160,7 +160,7 @@ form .button {
 }
 
 @media(max-width: 459px) {
-    .container .content .category {
+    .mainteiner .content .category {
         flex-direction: column;
     }
 }

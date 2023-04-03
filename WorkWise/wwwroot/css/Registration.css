@@ -44,7 +44,18 @@ body {
     margin: 20px 0 12px 0;
 }
 
+.content form .user-in {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin: 20px 0 12px 0;
+}
+
 form .user-details .input-box {
+    margin-bottom: 15px;
+    width: calc(100% / 2 - 20px);
+}
+form .user-in .input-box {
     margin-bottom: 15px;
     width: calc(100% / 2 - 20px);
 }
@@ -55,7 +66,21 @@ form .input-box span.details {
     margin-bottom: 5px;
 }
 
+
+
 .user-details .input-box input {
+    height: 45px;
+    width: 100%;
+    outline: none;
+    font-size: 16px;
+    border-radius: 5px;
+    padding-left: 15px;
+    border: 1px solid #ccc;
+    border-bottom-width: 2px;
+    transition: all 0.3s ease;
+}
+
+.user-in .input-box input {
     height: 45px;
     width: 100%;
     outline: none;
@@ -71,6 +96,11 @@ form .input-box span.details {
     .user-details .input-box input:valid {
         border-color: #F18C3F;
     }
+
+.user-in .input-box input:focus,
+.user-in .input-box input:valid {
+    border-color: #F18C3F;
+}
 
 form .gender-details .gender-title {
     font-size: 20px;
@@ -145,11 +175,21 @@ form .button {
         width: 100%;
     }
 
+    form .user-in .input-box {
+        margin-bottom: 15px;
+        width: 100%;
+    }
+
     form .category {
         width: 100%;
     }
 
     .content form .user-details {
+        max-height: 300px;
+        overflow-y: scroll;
+    }
+
+    .content form .user-in {
         max-height: 300px;
         overflow-y: scroll;
     }
@@ -164,3 +204,17 @@ form .button {
         flex-direction: column;
     }
 }
+
+form .signup {
+    font-size: 17px;
+    text-align: center;
+}
+
+    form .signup label {
+        background-image: linear-gradient(135deg, #ffef93 0, #ffdd8f 16.67%, #ffca8a 33.33%, #f7b684 50%, #e3a37e 66.67%, #d19379 83.33%, #c08675 100%);
+        cursor: pointer;
+    }
+
+        form .signup label:hover {
+            text-decoration: underline;
+        }

@@ -14,23 +14,25 @@
     <link rel="stylesheet" href="~/css/SingUp.css" asp-append-version="true" />
 </head>
 
+
 <body>
-    <div class="center">
-        <h1>Login</h1>
-        <form method="post">
-            <div class="txt_field">
-                <input type="text" id="name" name="name" required>
-                <span></span>
-                <label for="name">Name:</label>
+        <div class="montainer">
+            <input type="checkbox" id="check">
+            <div class="login form">
+                <h1>Login</h1>
+                <form action="#">
+                    <input type="text" placeholder="Enter your email">
+                    <input type="password" placeholder="Enter your password">
+                    <a href="#">Forgot password?</a>
+                    <input type="button" class="button" value="Login">
+                </form>
+                <div class="signup">
+                    <span class="signup">
+                        Don't have an account?
+                    <a href="/SingUP">Login</a>
+                    </span>
+                </div>
             </div>
-            <div class="txt_field">
-                <input type="password" id="email" name="email" required>
-                <span></span>
-                <label for="email">Email:</label>
-            </div>
-            <div class="pass">Forgot Password?</div>
-            <input type="submit" value="Login">
-        </form>
-    </div>
+        </div>
 </body>
 </html>

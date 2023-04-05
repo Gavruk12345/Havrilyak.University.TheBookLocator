@@ -3,11 +3,12 @@
     "",
     "\\WorkWise",
     "\\WorkWise.Databases",
+    "\\WorkWise.Databases\\Migrations",
     "\\WorkWise.Test",
     "\\WorkWise\\Pages",
     "\\WorkWise\\wwwroot",
     "\\WorkWise\\wwwroot\\css"
   ],
-  "SelectedNode": "\\WorkWise.sln",
+  "SelectedNode": "\\WorkWise\\Startup.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -3,3 +3,15 @@ D:\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Test\obj\Debug\net7.0
 D:\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Test\obj\Debug\net7.0\WorkWise.Test.AssemblyInfoInputs.cache
 D:\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Test\obj\Debug\net7.0\WorkWise.Test.AssemblyInfo.cs
 D:\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Test\obj\Debug\net7.0\WorkWise.Test.csproj.CoreCompileInputs.cache
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Test\bin\Debug\net7.0\WorkWise.Test.deps.json
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Test\bin\Debug\net7.0\WorkWise.Test.dll
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Test\bin\Debug\net7.0\WorkWise.Test.pdb
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Test\obj\Debug\net7.0\WorkWise.Test.csproj.AssemblyReference.cache
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Test\obj\Debug\net7.0\WorkWise.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Test\obj\Debug\net7.0\WorkWise.Test.AssemblyInfoInputs.cache
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Test\obj\Debug\net7.0\WorkWise.Test.AssemblyInfo.cs
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Test\obj\Debug\net7.0\WorkWise.Test.csproj.CoreCompileInputs.cache
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Test\obj\Debug\net7.0\WorkWise.Test.dll
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Test\obj\Debug\net7.0\refint\WorkWise.Test.dll
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Test\obj\Debug\net7.0\WorkWise.Test.pdb
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Test\obj\Debug\net7.0\ref\WorkWise.Test.dll

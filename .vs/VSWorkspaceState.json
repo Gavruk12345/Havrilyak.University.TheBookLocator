@@ -2,6 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\WorkWise",
+    "\\WorkWise\\Controllers",
     "\\WorkWise\\Databases",
     "\\WorkWise\\Databases\\Models",
     "\\WorkWise\\Pages",

@@ -13,33 +13,29 @@ namespace WorkWise.Controllers
             _context = context;
         }
 
+        public IActionResult Index()
+        {
+            var users = _context.Users.ToList();
+            return View(users);
+        }
+
         [HttpGet]
-        public ActionResult Create()
+        public IActionResult Create()
         {
             return View();
         }
 
         [HttpPost]
-        public ActionResult Create(User user)
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Create([Bind("Id,FirstName,LastName,Email,Phone,Password")] User user)
         {
             if (ModelState.IsValid)
             {
-                var newUser = new User
-                {
-                    FirstName = user.FirstName,
-                    LastName = user.LastName,
-                    Email = user.Email,
-                    Phone = user.Phone,
-                    Password = user.Password
-                };
-
-                _context.Users.Add(newUser);
-                _context.SaveChanges();
-                return RedirectToAction("Index");
+                _context.Add(user);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
             }
-
             return View(user);
         }
     }
-
 }

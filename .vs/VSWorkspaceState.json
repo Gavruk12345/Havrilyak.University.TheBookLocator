@@ -2,13 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\WorkWise",
-    "\\WorkWise.Databases",
-    "\\WorkWise.Databases\\Migrations",
-    "\\WorkWise.Test",
+    "\\WorkWise\\Databases",
+    "\\WorkWise\\Databases\\Models",
     "\\WorkWise\\Pages",
     "\\WorkWise\\wwwroot",
     "\\WorkWise\\wwwroot\\css"
   ],
-  "SelectedNode": "\\WorkWise\\Startup.cs",
+  "SelectedNode": "\\WorkWise\\Databases\\Models\\User.cs",
   "PreviewInSolutionExplorer": false
 }

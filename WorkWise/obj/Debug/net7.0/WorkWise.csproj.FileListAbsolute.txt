@@ -381,3 +381,4 @@ C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\appsettings.Production.json

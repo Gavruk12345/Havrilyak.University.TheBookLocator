@@ -2,8 +2,8 @@
 using System;
 using Castle.Core.Resource;
 using Microsoft.EntityFrameworkCore;
-using WorkWise.Databases.Model;
 using Microsoft.EntityFrameworkCore.SqlServer;
+using WorkWise.Databases.Models;
 
 namespace WorkWise
 {

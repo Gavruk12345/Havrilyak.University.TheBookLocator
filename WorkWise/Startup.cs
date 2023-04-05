@@ -4,8 +4,7 @@ using System.Configuration;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 using Microsoft.Extensions.Configuration;
-using WorkWise.Databases.Model;
-
+using WorkWise.Databases.Models;
 
 namespace WorkWise
 {

@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\WorkWise.bundle.scp.css"
     },
     {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Cabinet.css",
+      "PackagePath": "staticwebassets\\css\\Cabinet.css"
+    },
+    {
       "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Catalog.css",
       "PackagePath": "staticwebassets\\css\\Catalog.css"
     },

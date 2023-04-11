@@ -4,7 +4,7 @@ using System.Configuration;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 using Microsoft.Extensions.Configuration;
-using WorkWise.Databases.Models;
+using System;
 
 namespace WorkWise
 {
@@ -17,21 +17,16 @@ namespace WorkWise
             _configuration = configuration;
         }
 
+        public IConfiguration Configuration { get; }
+
         public void ConfigureServices(IServiceCollection services)
         {
-            // Додайте налаштування підключення до бази даних
-            services.AddDbContext<WorkWise.StoreDbContext>(options =>
-                options.UseSqlServer(_configuration.GetConnectionString("StoreDbContext")));
+            string connectionString = Configuration.GetConnectionString("StoreDbContext");
+            services.AddDbContext<AppDBContext>(c => c.UseSqlServer(connectionString));
 
-            // Додайте налаштування роботи з Identity
-            services.AddIdentity<User, IdentityRole>()
-                .AddEntityFrameworkStores<WorkWise.StoreDbContext>()
-                .AddDefaultTokenProviders();
+            services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<AppDBContext>();
+            services.AddControllersWithViews();
 
-            // Додайте сервіси, необхідні для роботи з MVC
-            services.AddMvc();
-
-            // Додайте інші сервіси за потребою
         }
     }
 

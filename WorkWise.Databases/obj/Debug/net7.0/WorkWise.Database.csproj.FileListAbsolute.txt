@@ -41,3 +41,4 @@ C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\obj\De
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\obj\Debug\net7.0\WorkWise.Database.pdb
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\obj\Debug\net7.0\WorkWise.Database.genruntimeconfig.cache
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\obj\Debug\net7.0\ref\WorkWise.Database.dll
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\appsettings.Production.json

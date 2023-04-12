@@ -2,9 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\WorkWise",
-    "\\WorkWise\\Pages",
-    "\\WorkWise\\wwwroot\\css"
+    "\\WorkWise\\Models",
+    "\\WorkWise\\Pages"
   ],
-  "SelectedNode": "\\WorkWise\\Pages\\SingUP.cshtml.cs",
+  "SelectedNode": "\\WorkWise.sln",
   "PreviewInSolutionExplorer": false
 }

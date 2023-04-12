@@ -30,6 +30,10 @@
 
   <ItemGroup>
     <None Include="Pages\Info.cshtml" />
+    <None Include="wwwroot\css\Kabinet.css" />
+    <None Include="wwwroot\image\image_Kabinet\1.jpg" />
+    <None Include="wwwroot\image\image_Kabinet\2.jpg" />
+    <None Include="wwwroot\image\image_Kabinet\3.jpeg" />
   </ItemGroup>
 
   <ItemGroup>

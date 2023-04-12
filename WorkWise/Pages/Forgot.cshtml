@@ -1,0 +1,39 @@
+﻿@page
+@model WorkWise.Pages.ForgotModel
+@{
+}
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Havrilyak.LNU.WorkWise.Web</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/WorkWise.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Forgot.css" asp-append-version="true" />
+
+</head>
+<body>
+    <div class="montainer">
+        <input type="checkbox" id="check">
+        <div class="login form">
+            <h1>Forgot password? </h1>
+            <form action="#">
+                <input type="text" placeholder="Enter your email">
+                <input type="button" class="button" value="Send">
+            </form>
+            <div class="signup">
+                <span class="signup">
+                    Don't have an account?
+                    <a href="/SingUP">Registartion</a>
+                </span>
+            </div>
+            
+        </div>
+    </div>
+
+   
+
+</body>
+</html>

@@ -45,6 +45,10 @@
       "PackagePath": "staticwebassets\\css\\about.css"
     },
     {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\ild.css",
+      "PackagePath": "staticwebassets\\css\\ild.css"
+    },
+    {
       "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

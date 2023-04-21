@@ -1,9 +1,11 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using WorkWise.Controllers;
+using Microsoft.AspNetCore.Identity;
+
 
 namespace WorkWise.Models
 {
-    public class User
+    public class User : IdentityUser
     {
         public int Id { get; set; }
 

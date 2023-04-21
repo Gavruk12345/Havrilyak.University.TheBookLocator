@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\WorkWise.bundle.scp.css"
     },
     {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Cabinet.css",
+      "PackagePath": "staticwebassets\\css\\Cabinet.css"
+    },
+    {
       "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Catalog.css",
       "PackagePath": "staticwebassets\\css\\Catalog.css"
     },
@@ -13,8 +17,16 @@
       "PackagePath": "staticwebassets\\css\\Catalog2.css"
     },
     {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Forgot.css",
+      "PackagePath": "staticwebassets\\css\\Forgot.css"
+    },
+    {
       "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\HomePage.css",
       "PackagePath": "staticwebassets\\css\\HomePage.css"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Kabinet.css",
+      "PackagePath": "staticwebassets\\css\\Kabinet.css"
     },
     {
       "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Registration.css",
@@ -95,6 +107,18 @@
     {
       "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\icon_home\\promotion.png",
       "PackagePath": "staticwebassets\\image\\icon_home\\promotion.png"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_Kabinet\\1.jpg",
+      "PackagePath": "staticwebassets\\image\\image_Kabinet\\1.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_Kabinet\\2.jpg",
+      "PackagePath": "staticwebassets\\image\\image_Kabinet\\2.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_Kabinet\\3.jpeg",
+      "PackagePath": "staticwebassets\\image\\image_Kabinet\\3.jpeg"
     },
     {
       "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_about\\About1.png",

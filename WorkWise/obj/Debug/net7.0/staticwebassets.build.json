@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4+R/ecrT0Bd0QAjfitKWwRPL1eE/2zuNO/60753Tpl4=",
+  "Hash": "VwgZivPeZdGOMvFLNB8r/XHwMgxb4A86nXtdvttye0Y=",
   "Source": "WorkWise",
   "BasePath": "_content/WorkWise",
   "Mode": "Default",
@@ -151,6 +151,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\HomePage.css"
+    },
+    {
+      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\ild.css",
+      "SourceId": "WorkWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "BasePath": "_content/WorkWise",
+      "RelativePath": "css/ild.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\ild.css"
     },
     {
       "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Kabinet.css",

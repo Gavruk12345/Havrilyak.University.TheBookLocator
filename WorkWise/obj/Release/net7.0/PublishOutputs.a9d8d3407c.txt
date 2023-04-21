@@ -10,6 +10,8 @@ C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\Azure.Core.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\Azure.Identity.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\Castle.Core.dll
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\EntityFramework.SqlServer.dll
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\EntityFramework.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\Humanizer.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\Microsoft.ApplicationInsights.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\Microsoft.ApplicationInsights.AspNetCore.dll
@@ -80,12 +82,14 @@ C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\NuGet.Protocol.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\NuGet.Versioning.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\nunit.framework.dll
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\System.CodeDom.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\System.Composition.AttributedModel.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\System.Composition.Convention.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\System.Composition.Hosting.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\System.Composition.Runtime.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\System.Composition.TypedParts.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\System.Data.SqlClient.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\System.Diagnostics.PerformanceCounter.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\System.Drawing.Common.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
@@ -259,6 +263,11 @@ C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\obj\Release\net7.0\PubTmp\Out\runtimes\win\lib\net6.0\System.Drawing.Common.dll

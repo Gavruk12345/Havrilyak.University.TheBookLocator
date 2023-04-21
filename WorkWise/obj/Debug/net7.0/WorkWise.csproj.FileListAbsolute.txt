@@ -390,3 +390,5 @@ C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.AspNet.Identity.Core.dll
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.AspNet.Identity.EntityFramework.dll

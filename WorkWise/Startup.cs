@@ -8,7 +8,7 @@ using System;
 
 namespace WorkWise
 {
-    public class Startup 
+    public class Startup
     {
         private readonly IConfiguration _configuration;
 
@@ -17,19 +17,7 @@ namespace WorkWise
             _configuration = configuration;
         }
 
-        public IConfiguration Configuration { get; }
 
-        public void ConfigureServices(IServiceCollection services)
-        {
-            string connectionString = Configuration.GetConnectionString("StoreDbContext");
-            services.AddDbContext<AppDBContext>(c => c.UseSqlServer(connectionString));
 
-            services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<AppDBContext>();
-            services.AddControllersWithViews();
-
-        }
     }
-
-
 }
-

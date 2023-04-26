@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VwgZivPeZdGOMvFLNB8r/XHwMgxb4A86nXtdvttye0Y=",
+  "Hash": "c0UDOSY6SC3k65lGQHjRTFadIBbQ+a8gfE7fX7zaUCE=",
   "Source": "WorkWise",
   "BasePath": "_content/WorkWise",
   "Mode": "Default",
@@ -134,6 +134,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Forgot.css"
+    },
+    {
+      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\FreePrograming.css",
+      "SourceId": "WorkWise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "BasePath": "_content/WorkWise",
+      "RelativePath": "css/FreePrograming.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\FreePrograming.css"
     },
     {
       "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\HomePage.css",

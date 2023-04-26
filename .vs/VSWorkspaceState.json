@@ -3,8 +3,10 @@
     "",
     "\\WorkWise",
     "\\WorkWise\\Models",
-    "\\WorkWise\\Pages"
+    "\\WorkWise\\Pages",
+    "\\WorkWise\\wwwroot",
+    "\\WorkWise\\wwwroot\\css"
   ],
-  "SelectedNode": "\\WorkWise\\Pages\\Kabinet.cshtml",
+  "SelectedNode": "\\WorkWise\\wwwroot\\css\\FreePrograming.css",
   "PreviewInSolutionExplorer": false
 }

@@ -1,4 +1,39 @@
 ﻿
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins" sans-serif;
+}
+
+body {
+    background-image: linear-gradient(100deg, #ffdb9f 0, #ffdf99 7.14%, #ffe393 14.29%, #ffe890 21.43%, #ffec8e 28.57%, #fff08d 35.71%, #fff38e 42.86%, #f4f791 50%, #e7fa95 57.14%, #dafd9b 64.29%, #cdffa2 71.43%, #bfffab 78.57%, #b0ffb4 85.71%, #a1ffbf 92.86%, #92ffca 100%);
+}
+
+.montainer {
+    padding-top: 75px;
+   
+}
+
+.section {
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+h1 {
+    font-size: 4em;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    line-height: 75px;
+    margin-bottom: 40px;
+}
+
+ h1 span {
+    font-size: 1.2em;
+    font-weight: 600;
+}
 .card-container {
     display: flex;
     justify-content: center;

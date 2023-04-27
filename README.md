@@ -49,7 +49,7 @@ Email: game.master.kvx@gmail.com
     Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="7.0
     6" 
     System.Linq.Async" Version="6.0.1" 
-  </ItemGroup>
+ 
 ```
 
 - After all dependencies are installed, click on "Run" (or press F5) to run the project. Select the browser in which you want to open the project and click "OK".

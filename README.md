@@ -1,79 +1,143 @@
+
 # Havrilyak.University.WorkWise
 
-1.	Створення моделі даних користувача
 
-        •	Визначення необхідних полів, таких як ім'я, прізвище, електронна пошта, пароль тощо.
-        •	Визначення зв'язків між моделлю користувача та іншими моделями, наприклад, замовленнями, профілями тощо.
-2.	Створення форми реєстрації користувача
 
-        •	Розробка інтерфейсу для введення даних користувача. -Done 
-        •	Валідація даних на стороні клієнта та сервера.
-3.	Створення механізму збереження даних користувача
 
-        •	Написання логіки для збереження даних користувача в базу даних.
-        •	Перевірка на унікальність електронної пошти користувача.
-      
-4.	Створення механізму авторизації користувача
+## About project 
 
-        •	Розробка механізму перевірки правильності введення електронної пошти та пароля користувача.
-        •	Створення механізму збереження даних про авторизованого користувача в сесії або в куках.
-5.	Створення профілю фрілансера/замовника
+First Name :Ruslan
 
-        •	Пошук фрілансерів/проектів
-        •	Розширений пошук за категоріями, ключовими словами, тегами тощо
-        •	Фільтрація результатів пошуку за різними параметрами (ціна, рейтинг тощо)
-6.	Розміщення проекту
+Last Name : Havrilyak
 
-        •	Заповнення інформації про проект (назва, опис, бюджет, категорія, теги тощо)
-        •	Додавання умов проекту (терміни, вимоги до виконавця тощо)
-7.	Запропонування проекту фрілансеру
+Deployed project: https://work-wise.azurewebsites.net/
 
-        •	Відправлення запиту на виконання проекту конкретному фрілансеру
-        •	Вказання умов проекту і очікуваної ціни
-8.	Управління проектами
+Telegram : https://t.me/a_le_mong
 
-        •	Можливість перегляду всіх проектів, які ви розмістили або надійшли вам запити
-        •	Можливість зміни умов проекту (терміни, бюджет тощо)
-        •	Можливість перегляду статусу проекту (в роботі, завершено, скасовано тощо)
-9.	Оцінка виконавців та проектів
+Email: game.master.kvx@gmail.com
 
-        •	Можливість залишати відгук і оцінку фрілансеру після виконання проекту
-        •	Можливість фрілансеру залишити відгук і оцінку замовнику після виконання проекту
-10.	Чат між фрілансером та замовником
 
-        •	Можливість спілкування в межах проекту
-        •	Можливість відправляти файли і документи, необхідні для виконання проекту
-11.	Створення інтеграції з соціальними мережами
 
-        •	Додавання можливості реєстрації та авторизації через соціальні мережі, такі як Facebook, Google, Twitter тощо.
-        •	Написання логіки для отримання даних про користувача з соціальної мережі та їх збереження в базу даних.
-12.	Створення механізму підтвердження електронної пошти користувача
+## Installation
 
-        •	Відправлення електронної пошти з посиланням для підтвердження електронно
-13.	Тестування
+- Open Visual Studio 2022.
 
-        •	Написання unit-тестів для перевірки коректності роботи окремих модулів системи.
-        •	Написання інтеграційних тестів для перевірки взаємодії між компонентами системи.
-        •	Виконання ручного тестування для перевірки функціональності системи.
-14.	Розгортання і налаштування
+- Click "Open a project or solution" on the Visual Studio 2022 home screen or in the "File" menu.
 
-        •	Розгортання системи на серверах хмарного провайдера.
+- Open the folder with your asp.net web app project.
 
-# Документація для проекту WorkWise
+- If your project uses dependencies, you need to install them. To do this, open the "package.json" or "packages.config" file and right-click on any of the packages you want to install and select "Restore packages". This will download and install all required packages from NuGet or npm.
 
-Посилання на задеплоїний проект : https://work-wise.azurewebsites.net/
+```bash
+   
+    Castle.Core" Version="5.1.1" 
+    EntityFramework" Version="6.4.4" 
+    Microsoft.ApplicationInsights" Version="2.21.0" 
+    Microsoft.ApplicationInsights.AspNetCore" Version="2.21.0" 
+    Microsoft.AspNet.Identity.EntityFramework" Version="2.2.3"
+    Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.5" 
+    Microsoft.EntityFrameworkCore" Version="7.0.5" 
+    Microsoft.EntityFrameworkCore.Design" Version="7.0.5"
+    Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.5" 
+    Microsoft.EntityFrameworkCore.Tools" Version="7.0.5"
+    Microsoft.Extensions.Configuration" Version="7.0.0" 
+    Microsoft.Extensions.Configuration.Json" Version="7.0.0" 
+    Microsoft.Extensions.Configuration.UserSecrets" Version="7.0.0"
+    Microsoft.Extensions.Logging" Version="7.0.0" 
+    Microsoft.Extensions.Logging.Debug" Version="7.0.0" 
+    Microsoft.TestPlatform.Portable" Version="17.5.0" 
+    Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="7.0
+    6" 
+    System.Linq.Async" Version="6.0.1" 
+  </ItemGroup>
+```
 
-Алгоритми як будуть задіяні в проеткті :
+- After all dependencies are installed, click on "Run" (or press F5) to run the project. Select the browser in which you want to open the project and click "OK".
 
-Пошук проектів за допомогою SQL Full Text Search: алгоритм шукає в базі даних проекти, які містять в назві або описі ключові слова, введені користувачем. 
+- The project will launch in the browser of your choice.
+    
+## Roadmap
 
-Проекти, що відповідають критеріям, відображаються у списку результатів.  
+### Database:
 
-Рекомендації проектів на основі інтересів користувача: алгоритм аналізує історію пошуку та вибору проектів користувача, а також його профіль, щоб зробити рекомендації проектів, які можуть бути йому цікавими. 
+* Create Azure database - **☑**
+* Create a table in SQL server for Login/Registration - **☑**
+* Create a table in SQL server for Employers/Freelancer - **☑**
 
-Ранжування проектів за рейтингом: алгоритм ранжує проекти за рейтингом замовників, щоб користувачі могли швидко знайти високоякісні проекти.  
 
-Система повідомлень: алгоритм відстежує повідомлення між замовниками та фрілансерами, щоб забезпечити ефективну комунікацію і сприяти успішному завершенню проекту.
+### Azure:
+
+* Registration - **☑**
+* Project deploy - **☑**
+* Azure database - **☑**
+* CI/CD - **▢**
+
+
+### Index frontend :
+* Home Page - **☑**
+* Choose Categori Page - **☑** 
+* About Page - **☑**
+
+### Registration/Login frontend :
+
+* Registration Page - **☑**
+* Login Page  - **☑**
+* Restart password Page - **☑**
+
+### Freelancer/Employers frontend:
+
+* Freelancer Page - **▢**
+* Employers Page  - **▢**
+* Choose Freelancer Page - **☑**
+* Choose Employers Page - **☑**
+* Kabinet - **▢**
+
+### API :
+
+* Add Google authorization - **▢**
+* Add Chat API - **▢**
+* Add Restore password API- **▢**
+
+
+### Freelancer/Employers backend:
+
+* 
+* 
+* 
+* 
+
+### Registration/Login backend :
+
+* ORM - **▢**
+
+
+
+## Tech Stack
+
+**Client**
+
+ASP.NET WEB APP
+
+**Server**
+
+Node
+Express
+
+**Database**
+
+SQL Server
+
+**Deployment**
+
+Azure
+
+**Monitoring**
+
+Application Insights
+
+
+## API Reference
+
 
 
 

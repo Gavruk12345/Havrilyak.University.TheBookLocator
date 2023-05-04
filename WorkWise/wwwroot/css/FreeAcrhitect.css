@@ -1,0 +1,196 @@
+﻿
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins" sans-serif;
+}
+
+body {
+    background-image: linear-gradient( 205deg, hsl(240deg 92% 36%) 0%, hsl(289deg 100% 32%) 18%, hsl(315deg 100% 36%) 28%, hsl(330deg 100% 44%) 36%, hsl(339deg 100% 48%) 43%, hsl(354deg 100% 58%) 49%, hsl(18deg 100% 57%) 57%, hsl(33deg 100% 50%) 66%, hsl(43deg 100% 48%) 79%, hsl(55deg 81% 50%) 100% );
+}
+
+.montainer {
+    padding-top: 75px;
+    background-image: linear-gradient( 345deg, hsl(0deg 0% 68%) 13%, hsl(0deg 0% 72%) 43%, hsl(0deg 0% 76%) 49%, hsl(0deg 0% 80%) 50%, hsl(0deg 0% 84%) 50%, hsl(0deg 0% 87%) 50%, hsl(0deg 0% 90%) 50%, hsl(0deg 0% 94%) 51%, hsl(0deg 0% 97%) 57%, hsl(0deg 0% 100%) 87% );
+    margin-left: 40px;
+    height: 100%;
+    margin-right: 40px;
+}
+
+.section {
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+h1 {
+    margin-left: 40px;
+    font-size: 4em;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    line-height: 75px;
+    margin-bottom: 40px;
+}
+
+ h1 span {
+    font-size: 1.2em;
+    font-weight: 600;
+}
+.card-container {
+    display: flex;
+    justify-content: center;
+    margin: 0 20px;
+}
+
+.card {
+    width: 150px;
+    height: 250px;
+    border: 1px solid #ccc;
+    margin: 10px;
+    float: left;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+    
+
+/* Styling for select element */
+
+.sort {
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+.sort select {
+    margin-left: 40px;
+    border: none;
+    background: #fff;
+    padding: 8px;
+    border-radius: 5px;
+    box-shadow: 0 0 0 1px #ccc;
+    font-size: 16px;
+    color: #333;
+}
+
+    /* Styling for options inside select element */
+    .sort select option {
+        background: #fff;
+        color: #333;
+    }
+
+/* Styling for filter categories */
+.filter {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+    /* Styling for filter category title */
+    .filter h3 {
+        font-size: 18px;
+        font-weight: bold;
+        margin-bottom: 5px;
+    }
+
+    /* Styling for filter category options */
+    .filter label {
+        display: block;
+        margin-bottom: 5px;
+        font-size: 16px;
+        color: #333;
+    }
+
+    .filter input[type="radio"] {
+        display: none;
+    }
+
+        .filter input[type="radio"] + label {
+            position: relative;
+            padding-left: 30px;
+            cursor: pointer;
+        }
+
+            .filter input[type="radio"] + label:before {
+                content: '';
+                position: absolute;
+                left: 0;
+                top: 1px;
+                width: 20px;
+                height: 20px;
+                border-radius: 50%;
+                border: 1px solid #ccc;
+                background-color: #fff;
+            }
+
+        .filter input[type="radio"]:checked + label:before {
+            background-color: #333;
+        }
+
+/* Styling for freelancer cards */
+.card {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    width: 250px;
+    vertical-align: top;
+    background-color: #f7f7f7;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+
+    .card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    }
+
+    .card img {
+        display: block;
+        max-width: 100%;
+        height: auto;
+        margin: 0 auto;
+        border-radius: 50%;
+    }
+
+    .card h3 {
+        margin-top: 10px;
+        font-size: 20px;
+        font-weight: bold;
+        color: #333;
+    }
+
+    .card p {
+        font-size: 16px;
+        color: #666;
+        margin-bottom: 10px;
+    }
+
+/* Styling for section containing freelancer cards */
+.cards-section {
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/*___________________________________________________*/
+.search-input {
+    width: 200px; /* задаємо ширину поля пошуку */
+    padding: 5px; /* задаємо відступи всередині поля пошуку */
+    border: 1px solid #ccc; /* задаємо рамку для поля пошуку */
+    border-radius: 4px; /* задаємо закруглені кути для поля пошуку */
+    font-size: 16px; /* задаємо розмір шрифту для тексту в полі пошуку */
+}
+
+    .search-input:focus {
+        outline: none; /* забираємо рамку фокусування */
+        border-color: #007bff; /* змінюємо колір рамки при фокусуванні на полі */
+    }
+
+.sort, .search-container {
+    display: inline-block;
+    vertical-align: middle; /* для вирівнювання за вертикаллю */
+    margin-right: 20px; /* для додавання відстані між елементами */
+}
+

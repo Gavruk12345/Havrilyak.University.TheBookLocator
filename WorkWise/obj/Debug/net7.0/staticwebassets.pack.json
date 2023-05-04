@@ -21,8 +21,36 @@
       "PackagePath": "staticwebassets\\css\\Forgot.css"
     },
     {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\FreeAcrhitect.css",
+      "PackagePath": "staticwebassets\\css\\FreeAcrhitect.css"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\FreeAdministration.css",
+      "PackagePath": "staticwebassets\\css\\FreeAdministration.css"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\FreeCopyWriting.css",
+      "PackagePath": "staticwebassets\\css\\FreeCopyWriting.css"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\FreeDesign.css",
+      "PackagePath": "staticwebassets\\css\\FreeDesign.css"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\FreeFinance.css",
+      "PackagePath": "staticwebassets\\css\\FreeFinance.css"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\FreeLegal.css",
+      "PackagePath": "staticwebassets\\css\\FreeLegal.css"
+    },
+    {
       "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\FreePrograming.css",
       "PackagePath": "staticwebassets\\css\\FreePrograming.css"
+    },
+    {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\FreeTranslator.css",
+      "PackagePath": "staticwebassets\\css\\FreeTranslator.css"
     },
     {
       "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\HomePage.css",

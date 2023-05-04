@@ -7,12 +7,15 @@
 }
 
 body {
-    background-image: linear-gradient(100deg, #ffdb9f 0, #ffdf99 7.14%, #ffe393 14.29%, #ffe890 21.43%, #ffec8e 28.57%, #fff08d 35.71%, #fff38e 42.86%, #f4f791 50%, #e7fa95 57.14%, #dafd9b 64.29%, #cdffa2 71.43%, #bfffab 78.57%, #b0ffb4 85.71%, #a1ffbf 92.86%, #92ffca 100%);
+    background-image: linear-gradient( 55deg, hsl(240deg 100% 20%) 3%, hsl(289deg 100% 21%) 21%, hsl(315deg 100% 27%) 32%, hsl(329deg 100% 36%) 41%, hsl(337deg 100% 43%) 50%, hsl(357deg 91% 59%) 59%, hsl(17deg 100% 59%) 67%, hsl(34deg 100% 53%) 76%, hsl(45deg 100% 50%) 85%, hsl(55deg 100% 50%) 100% );
 }
 
 .montainer {
     padding-top: 75px;
-   
+    background-image: linear-gradient( 345deg, hsl(0deg 0% 68%) 13%, hsl(0deg 0% 72%) 43%, hsl(0deg 0% 76%) 49%, hsl(0deg 0% 80%) 50%, hsl(0deg 0% 84%) 50%, hsl(0deg 0% 87%) 50%, hsl(0deg 0% 90%) 50%, hsl(0deg 0% 94%) 51%, hsl(0deg 0% 97%) 57%, hsl(0deg 0% 100%) 87% );
+    margin-left: 40px;
+    height: 100%;
+    margin-right: 40px;
 }
 
 .section {
@@ -22,6 +25,7 @@ body {
 }
 
 h1 {
+    margin-left: 40px;
     font-size: 4em;
     font-weight: 900;
     text-transform: uppercase;
@@ -41,14 +45,25 @@ h1 {
 }
 
 .card {
-    width: 200px;
-    height: 300px;
-    margin: 20px;
+    width: 150px;
+    height: 250px;
+    border: 1px solid #ccc;
+    margin: 10px;
+    float: left;
+    cursor: pointer;
+    transition: all 0.3s ease;
 }
 
+    
 
 /* Styling for select element */
+
+.sort {
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
 .sort select {
+    margin-left: 40px;
     border: none;
     background: #fff;
     padding: 8px;
@@ -158,3 +173,24 @@ h1 {
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
+/*___________________________________________________*/
+.search-input {
+    width: 200px; /* задаємо ширину поля пошуку */
+    padding: 5px; /* задаємо відступи всередині поля пошуку */
+    border: 1px solid #ccc; /* задаємо рамку для поля пошуку */
+    border-radius: 4px; /* задаємо закруглені кути для поля пошуку */
+    font-size: 16px; /* задаємо розмір шрифту для тексту в полі пошуку */
+}
+
+    .search-input:focus {
+        outline: none; /* забираємо рамку фокусування */
+        border-color: #007bff; /* змінюємо колір рамки при фокусуванні на полі */
+    }
+
+.sort, .search-container {
+    display: inline-block;
+    vertical-align: middle; /* для вирівнювання за вертикаллю */
+    margin-right: 20px; /* для додавання відстані між елементами */
+}
+

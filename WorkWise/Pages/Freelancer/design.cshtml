@@ -1,0 +1,64 @@
+﻿@page
+@model WorkWise.Pages.Freelancer.disignModel
+@{
+}
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Havrilyak.LNU.WorkWise.Web</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/WorkWise.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/FreeDesign.css" asp-append-version="true" />
+
+</head>
+<body>
+    <div class="montainer">
+        <div class="mainbor">
+            <h1>Freelancers.<span>Desing</span></h1>
+            <div class="sort">
+                <label for="sort">Sort by:</label>
+                <select id="sort">
+                    <option value="rating">Rating</option>
+                    <option value="completed-orders">Completed Orders</option>
+                    <option value="reviews">Reviews</option>
+                </select>
+            </div>
+        </div>
+            <div class="card-container">
+                <div class="card">
+                    <img src="https://via.placeholder.com/150" alt="Freelancer 1">
+                    <h2>John Doe</h2>
+                    <p>Hired through Upwork</p>
+                </div>
+                <div class="card">
+                    <img src="https://via.placeholder.com/150" alt="Freelancer 2">
+                    <h2>Jane Smith</h2>
+                    <p>Hired through Freelancer</p>
+                </div>
+                <div class="card">
+                    <img src="https://via.placeholder.com/150" alt="Freelancer 3">
+                    <h2>Bob Johnson</h2>
+                    <p>Hired through Fiverr</p>
+                </div>
+                <div class="card">
+                    <img src="https://via.placeholder.com/150" alt="Freelancer 3">
+                    <h2>Bob Johnson</h2>
+                    <p>Hired through Fiverr</p>
+                </div>
+                <div class="card">
+                    <img src="https://via.placeholder.com/150" alt="Freelancer 3">
+                    <h2>Bob Johnson</h2>
+                    <p>Hired through Fiverr</p>
+                </div>
+            </div>
+
+        
+    </div>
+
+</body>
+</html>
+
+

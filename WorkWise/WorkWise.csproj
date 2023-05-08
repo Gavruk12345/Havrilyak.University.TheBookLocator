@@ -66,6 +66,7 @@
 
   <ItemGroup>
     <Folder Include="Data\" />
+    <Folder Include="wwwroot\css\Employers\" />
     <Folder Include="wwwroot\image\icon_home\" />
   </ItemGroup>
 

@@ -61,6 +61,10 @@
       "PackagePath": "staticwebassets\\css\\Kabinet.css"
     },
     {
+      "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Programong.css",
+      "PackagePath": "staticwebassets\\css\\Programong.css"
+    },
+    {
       "Id": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Registration.css",
       "PackagePath": "staticwebassets\\css\\Registration.css"
     },

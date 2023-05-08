@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Work/Lab/Web/WorkWise/Havrilyak.University.WorkWise/WorkWise/Pages/Employers/Programing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZXJzXFByb2dyYW1pbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Work/Lab/Web/WorkWise/Havrilyak.University.WorkWise/WorkWise/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

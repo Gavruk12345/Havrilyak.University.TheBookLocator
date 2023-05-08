@@ -1,0 +1,66 @@
+﻿@page
+@model WorkWise.Pages.Employers.ProgramingModel
+@{
+}
+
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Havrilyak.LNU.WorkWise.Web</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/WorkWise.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Programong.css" asp-append-version="true" />
+
+</head>
+<body>
+    <div class="montainer">
+        <div class="mainbar">
+            <h1>Job Offers.<span>Programming</span></h1>
+            <div class="sort">
+                <label for="sort">Sort by:</label>
+                <select id="sort">
+                    <option value="budget">Budget</option>
+                    <option value="deadline">Deadline</option>
+                    <option value="reviews">Reviews</option>
+                </select>
+            </div>
+        </div>
+        <div class="job-card">
+            <div class="job-card-header">
+                <h2>Project Title</h2>
+                <p class="job-card-price">$100</p>
+            </div>
+            <p class="job-card-description">Project Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <div class="job-card-footer">
+                <p class="job-card-employer">Client: John Doe</p>
+                <button class="job-card-btn">See more</button>
+            </div>
+        </div>
+        <div class="job-card">
+            <div class="job-card-header">
+                <h2>Project Title</h2>
+                <p class="job-card-price">$100</p>
+            </div>
+            <p class="job-card-description">Project Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <div class="job-card-footer">
+                <p class="job-card-employer">Client: John Doe</p>
+                <button class="job-card-btn">See more</button>
+            </div>
+        </div>
+        <div class="job-card">
+            <div class="job-card-header">
+                <h2>Project Title</h2>
+                <p class="job-card-price">$100</p>
+            </div>
+            <p class="job-card-description">Project Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <div class="job-card-footer">
+                <p class="job-card-employer">Client: John Doe</p>
+                <button class="job-card-btn">See more</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

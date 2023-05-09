@@ -137,10 +137,6 @@
               "target": "Package",
               "version": "[4.0.3, )"
             },
-            "EntityFramework": {
-              "target": "Package",
-              "version": "[6.4.4, )"
-            },
             "Microsoft.ApplicationInsights": {
               "target": "Package",
               "version": "[2.21.0, )"

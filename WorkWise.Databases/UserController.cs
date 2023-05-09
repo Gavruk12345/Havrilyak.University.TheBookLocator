@@ -1,6 +1,6 @@
 ﻿/*using Microsoft.AspNetCore.Mvc;
 using WorkWise.Database.Interfaces;
-using WorkWise.Model.Databases;
+using WorkWise.Model.Database;
 using WorkWise;
 using Microsoft.AspNetCore.Authentication;
 

@@ -43,6 +43,7 @@
     <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.21.0" />
     <PackageReference Include="Microsoft.AspNet.Identity.EntityFramework" Version="2.2.3" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.5" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.5" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.5" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.5">
       <PrivateAssets>all</PrivateAssets>
@@ -53,14 +54,23 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.ApiDescription.Server" Version="7.0.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="7.0.0" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="7.0.0" />
     <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="7.0.0" />
     <PackageReference Include="Microsoft.Extensions.Logging" Version="7.0.0" />
     <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="7.0.0" />
+    <PackageReference Include="Microsoft.OpenApi" Version="1.6.4" />
     <PackageReference Include="Microsoft.TestPlatform.Portable" Version="17.5.0" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="7.0.6" />
     <PackageReference Include="NUnit" Version="3.13.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.5.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.5.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.5.0" />
     <PackageReference Include="System.Linq.Async" Version="6.0.1" />
   </ItemGroup>
 
@@ -68,6 +78,12 @@
     <Folder Include="Data\" />
     <Folder Include="wwwroot\css\Employers\" />
     <Folder Include="wwwroot\image\icon_home\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WorkWise.Core\WorkWise.Core.csproj" />
+    <ProjectReference Include="..\WorkWise.Databases\WorkWise.Database.csproj" />
+    <ProjectReference Include="..\WorkWise.Model\WorkWise.Model.csproj" />
   </ItemGroup>
 
 </Project>

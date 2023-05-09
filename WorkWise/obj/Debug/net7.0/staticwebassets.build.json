@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TxXJUfK78M9CgA6JpuQ1sfZnGcdH+eR100y4oCJP+bE=",
+  "Hash": "/mJSJDjx2Z1r3OwePMUM2GfmyuOzQxGEKJjlNn/AfpQ=",
   "Source": "WorkWise",
   "BasePath": "_content/WorkWise",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WorkWise\\wwwroot",
       "Source": "WorkWise",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\obj\\Debug\\net7.0\\scopedcss\\bundle\\WorkWise.styles.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\obj\\Debug\\net7.0\\scopedcss\\bundle\\WorkWise.styles.css",
       "SourceId": "WorkWise",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "WorkWise.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\obj\\Debug\\net7.0\\scopedcss\\bundle\\WorkWise.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\obj\\Debug\\net7.0\\scopedcss\\bundle\\WorkWise.styles.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WorkWise.bundle.scp.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WorkWise.bundle.scp.css",
       "SourceId": "WorkWise",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "WorkWise.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WorkWise.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WorkWise.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\about.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\about.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "css/about.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\about.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Cabinet.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Cabinet.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "css/Cabinet.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Cabinet.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Catalog.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Catalog.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "css/Catalog.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Catalog.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Catalog2.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Catalog2.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "css/Catalog2.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Catalog2.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Forgot.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Forgot.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "css/Forgot.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Forgot.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\FreeAcrhitect.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\FreeAcrhitect.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "css/FreeAcrhitect.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\FreeAcrhitect.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\FreeAdministration.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\FreeAdministration.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "css/FreeAdministration.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\FreeAdministration.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\FreeCopyWriting.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\FreeCopyWriting.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "css/FreeCopyWriting.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\FreeCopyWriting.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\FreeDesign.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\FreeDesign.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "css/FreeDesign.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\FreeDesign.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\FreeFinance.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\FreeFinance.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "css/FreeFinance.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\FreeFinance.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\FreeLegal.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\FreeLegal.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "css/FreeLegal.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\FreeLegal.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\FreePrograming.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\FreePrograming.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "css/FreePrograming.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\FreePrograming.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\FreeTranslator.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\FreeTranslator.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "css/FreeTranslator.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\FreeTranslator.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\HomePage.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\HomePage.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "css/HomePage.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\HomePage.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\ild.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\ild.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "css/ild.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\css\\ild.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Kabinet.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Kabinet.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "css/Kabinet.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Kabinet.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Programong.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Programong.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "css/Programong.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Programong.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Registration.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Registration.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "css/Registration.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Registration.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Shapka.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\Shapka.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "css/Shapka.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Shapka.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\SingUp.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\SingUp.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "css/SingUp.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\css\\SingUp.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\css\\site.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\favicon.ico",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\fonts\\Montserrat-VariableFont_wght.woff2",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\fonts\\Montserrat-VariableFont_wght.woff2",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "fonts/Montserrat-VariableFont_wght.woff2",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Montserrat-VariableFont_wght.woff2"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\icon_home\\agreement.png",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\icon_home\\agreement.png",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "image/icon_home/agreement.png",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\image\\icon_home\\agreement.png"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\icon_home\\fullscreen.png",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\icon_home\\fullscreen.png",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "image/icon_home/fullscreen.png",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\image\\icon_home\\fullscreen.png"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\icon_home\\promotion.png",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\icon_home\\promotion.png",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "image/icon_home/promotion.png",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\image\\icon_home\\promotion.png"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_about\\About1.png",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_about\\About1.png",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "image/image_about/About1.png",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\image\\image_about\\About1.png"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\admin_suport.jpg",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\admin_suport.jpg",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "image/Image_frelancerCatalog/admin_suport.jpg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\image\\Image_frelancerCatalog\\admin_suport.jpg"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\architect.jpg",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\architect.jpg",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "image/Image_frelancerCatalog/architect.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\image\\Image_frelancerCatalog\\architect.jpg"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\Design.jpg",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\Design.jpg",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "image/Image_frelancerCatalog/Design.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\image\\Image_frelancerCatalog\\Design.jpg"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\Finance.jpg",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\Finance.jpg",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "image/Image_frelancerCatalog/Finance.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\image\\Image_frelancerCatalog\\Finance.jpg"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\legal.jpg",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\legal.jpg",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "image/Image_frelancerCatalog/legal.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\image\\Image_frelancerCatalog\\legal.jpg"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\Marketing.jpg",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\Marketing.jpg",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "image/Image_frelancerCatalog/Marketing.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\image\\Image_frelancerCatalog\\Marketing.jpg"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\photo_2023-04-01_21-04-58.jpg",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\photo_2023-04-01_21-04-58.jpg",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "image/Image_frelancerCatalog/photo_2023-04-01_21-04-58.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\image\\Image_frelancerCatalog\\photo_2023-04-01_21-04-58.jpg"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\programing.jpg",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\programing.jpg",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "image/Image_frelancerCatalog/programing.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\image\\Image_frelancerCatalog\\programing.jpg"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\translate.jpg",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\translate.jpg",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "image/Image_frelancerCatalog/translate.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\image\\Image_frelancerCatalog\\translate.jpg"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\Writen.jpg",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\Image_frelancerCatalog\\Writen.jpg",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "image/Image_frelancerCatalog/Writen.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\image\\Image_frelancerCatalog\\Writen.jpg"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_homepage\\pexels-vlada-karpovich-4050315.png",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_homepage\\pexels-vlada-karpovich-4050315.png",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "image/image_homepage/pexels-vlada-karpovich-4050315.png",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\image\\image_homepage\\pexels-vlada-karpovich-4050315.png"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_homepage\\Studen.png",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_homepage\\Studen.png",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "image/image_homepage/Studen.png",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\image\\image_homepage\\Studen.png"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_Kabinet\\1.jpg",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_Kabinet\\1.jpg",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "image/image_Kabinet/1.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\image\\image_Kabinet\\1.jpg"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_Kabinet\\2.jpg",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_Kabinet\\2.jpg",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "image/image_Kabinet/2.jpg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\image\\image_Kabinet\\2.jpg"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_Kabinet\\3.jpeg",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_Kabinet\\3.jpeg",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "image/image_Kabinet/3.jpeg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\image\\image_Kabinet\\3.jpeg"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_layout\\WorkWiseLogo.PNG",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_layout\\WorkWiseLogo.PNG",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "image/image_layout/WorkWiseLogo.PNG",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\image\\image_layout\\WorkWiseLogo.PNG"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_layout\\WorkWiseLogoV2.PNG",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_layout\\WorkWiseLogoV2.PNG",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "image/image_layout/WorkWiseLogoV2.PNG",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\image\\image_layout\\WorkWiseLogoV2.PNG"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_layout\\WW.PNG",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_layout\\WW.PNG",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "image/image_layout/WW.PNG",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\image\\image_layout\\WW.PNG"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_layout\\WWV1.PNG",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\image\\image_layout\\WWV1.PNG",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "image/image_layout/WWV1.PNG",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\image\\image_layout\\WWV1.PNG"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\js\\site.js",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\video\\another work.mp4",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\video\\another work.mp4",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "video/another work.mp4",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\video\\another work.mp4"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\video\\copiraiting.mp4",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\video\\copiraiting.mp4",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "video/copiraiting.mp4",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\video\\copiraiting.mp4"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\video\\design.mp4",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\video\\design.mp4",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "video/design.mp4",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\video\\design.mp4"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\video\\Langvich.mp4",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\video\\Langvich.mp4",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "video/Langvich.mp4",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\video\\Langvich.mp4"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\video\\Markrting.mp4",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\video\\Markrting.mp4",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "video/Markrting.mp4",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\video\\Markrting.mp4"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\video\\programing.mp4",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\video\\programing.mp4",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "video/programing.mp4",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\video\\programing.mp4"
     },
     {
-      "Identity": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\video\\sunset.mp4",
+      "Identity": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\video\\sunset.mp4",
       "SourceId": "WorkWise",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Lab\\Web\\WorkWise\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\wwwroot\\",
       "BasePath": "_content/WorkWise",
       "RelativePath": "video/sunset.mp4",
       "AssetKind": "All",

@@ -1,7 +1,12 @@
-
+using Microsoft.EntityFrameworkCore;
+using WorkWise.Core;
+using WorkWise.Database;
 
 // This method gets called by the runtime. Use this method to add services to the container.
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.RegisterCoreConfiguration(builder.Configuration);
+builder.Services.RegisterDatabaseDependencies(builder.Configuration);
 
 // The following line enables Application Insights telemetry collection.
 builder.Services.AddApplicationInsightsTelemetry();

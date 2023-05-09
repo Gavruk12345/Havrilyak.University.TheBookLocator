@@ -138,6 +138,15 @@ Application Insights
 
 ## API Reference
 
+## Lab 3 
+What was done
+Added backend:
+ - connected to azure DB
+ - created Migrations
+ - added Registration (Inserting info into table about new user)
+ - Encode password (BCrypt)
 
+Student : Dzirba Bohdan
+GitHub: https://github.com/Freybii/Fluentify
 
-
+Link Pull request 

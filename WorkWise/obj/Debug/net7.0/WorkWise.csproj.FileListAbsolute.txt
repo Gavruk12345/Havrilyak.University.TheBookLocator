@@ -406,8 +406,6 @@ C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWis
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Azure.Identity.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\BCrypt.Net-Next.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Castle.Core.dll
-C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\EntityFramework.SqlServer.dll
-C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\EntityFramework.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Humanizer.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.ApplicationInsights.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.ApplicationInsights.AspNetCore.dll
@@ -416,8 +414,6 @@ C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWis
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.AI.PerfCounterCollector.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.AI.WindowsServer.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.AI.ServerTelemetryChannel.dll
-C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.AspNet.Identity.Core.dll
-C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
@@ -445,11 +441,9 @@ C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWis
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.Extensions.Logging.ApplicationInsights.dll
@@ -472,7 +466,6 @@ C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWis
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\Newtonsoft.Json.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\NuGet.Common.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\NuGet.Configuration.dll
@@ -484,14 +477,12 @@ C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWis
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\NuGet.Protocol.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\NuGet.Versioning.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\nunit.framework.dll
-C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\System.CodeDom.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\System.Composition.AttributedModel.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\System.Composition.Convention.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\System.Composition.Hosting.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\System.Composition.Runtime.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\System.Composition.TypedParts.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\System.Data.SqlClient.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\System.Diagnostics.PerformanceCounter.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\System.Drawing.Common.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
@@ -665,11 +656,6 @@ C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWis
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
-C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
-C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
-C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll

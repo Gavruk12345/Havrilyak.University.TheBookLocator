@@ -10,3 +10,18 @@ C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Core\obj\Debug\n
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Core\obj\Debug\net7.0\refint\WorkWise.Core.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Core\obj\Debug\net7.0\WorkWise.Core.pdb
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Core\obj\Debug\net7.0\ref\WorkWise.Core.dll
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Core\bin\Debug\net7.0\WorkWise.Core.deps.json
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Core\bin\Debug\net7.0\WorkWise.Core.dll
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Core\bin\Debug\net7.0\WorkWise.Core.pdb
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Core\bin\Debug\net7.0\WorkWise.Model.dll
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Core\bin\Debug\net7.0\WorkWise.Model.pdb
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Core\obj\Debug\net7.0\WorkWise.Core.csproj.AssemblyReference.cache
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Core\obj\Debug\net7.0\WorkWise.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Core\obj\Debug\net7.0\WorkWise.Core.AssemblyInfoInputs.cache
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Core\obj\Debug\net7.0\WorkWise.Core.AssemblyInfo.cs
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Core\obj\Debug\net7.0\WorkWise.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Core\obj\Debug\net7.0\WorkWise.Core.csproj.CopyComplete
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Core\obj\Debug\net7.0\WorkWise.Core.dll
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Core\obj\Debug\net7.0\refint\WorkWise.Core.dll
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Core\obj\Debug\net7.0\WorkWise.Core.pdb
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Core\obj\Debug\net7.0\ref\WorkWise.Core.dll

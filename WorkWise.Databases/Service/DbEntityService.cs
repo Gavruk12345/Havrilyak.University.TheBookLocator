@@ -1,24 +1,16 @@
-﻿/*
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using WorkWise.Database.Interfaces;
-using WorkWise.Databases;
-using WorkWise.Model.Databases;
+﻿using WorkWise.Model.Database;
 using Microsoft.EntityFrameworkCore;
-
+using WorkWise.Database.Interfaces;
+using WorkWise.Database;
 
 namespace WorkWise.Database.Service
 {
-    public class MyService<T> : IDbEntityService<T> where T : DbItem
+    public class DbEntityService<T> : IDbEntityService<T> where T : DbItem
     {
-
         private readonly StoreDbContext _dbContext;
         private bool _disposed;
 
-        public MyService(StoreDbContext dbContext)
+        public DbEntityService(StoreDbContext dbContext)
         {
             _dbContext = dbContext;
         }
@@ -69,4 +61,4 @@ namespace WorkWise.Database.Service
             _disposed = true;
         }
     }
-}*/
+}

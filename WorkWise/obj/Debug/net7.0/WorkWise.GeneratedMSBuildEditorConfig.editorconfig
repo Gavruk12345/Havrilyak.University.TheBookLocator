@@ -9,101 +9,101 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WorkWise
 build_property.RootNamespace = WorkWise
-build_property.ProjectDir = C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise\
+build_property.ProjectDir = C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise
+build_property.MSBuildProjectDirectory = C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Work/Lab/Web/WorkWise/Havrilyak.University.WorkWise/WorkWise/Pages/Employers/Programing.cshtml]
+[C:/Users/Dell Latitude E5570/Desktop/Lab 3/Havrilyak.University.WorkWise/WorkWise/Pages/Employers/Programing.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZXJzXFByb2dyYW1pbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Work/Lab/Web/WorkWise/Havrilyak.University.WorkWise/WorkWise/Pages/Error.cshtml]
+[C:/Users/Dell Latitude E5570/Desktop/Lab 3/Havrilyak.University.WorkWise/WorkWise/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Work/Lab/Web/WorkWise/Havrilyak.University.WorkWise/WorkWise/Pages/Forgot.cshtml]
+[C:/Users/Dell Latitude E5570/Desktop/Lab 3/Havrilyak.University.WorkWise/WorkWise/Pages/Forgot.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9yZ290LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Work/Lab/Web/WorkWise/Havrilyak.University.WorkWise/WorkWise/Pages/Freelancer/administration.cshtml]
+[C:/Users/Dell Latitude E5570/Desktop/Lab 3/Havrilyak.University.WorkWise/WorkWise/Pages/Freelancer/administration.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnJlZWxhbmNlclxhZG1pbmlzdHJhdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Work/Lab/Web/WorkWise/Havrilyak.University.WorkWise/WorkWise/Pages/Freelancer/architect.cshtml]
+[C:/Users/Dell Latitude E5570/Desktop/Lab 3/Havrilyak.University.WorkWise/WorkWise/Pages/Freelancer/architect.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnJlZWxhbmNlclxhcmNoaXRlY3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Work/Lab/Web/WorkWise/Havrilyak.University.WorkWise/WorkWise/Pages/Freelancer/copywriting.cshtml]
+[C:/Users/Dell Latitude E5570/Desktop/Lab 3/Havrilyak.University.WorkWise/WorkWise/Pages/Freelancer/copywriting.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnJlZWxhbmNlclxjb3B5d3JpdGluZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Work/Lab/Web/WorkWise/Havrilyak.University.WorkWise/WorkWise/Pages/Freelancer/design.cshtml]
+[C:/Users/Dell Latitude E5570/Desktop/Lab 3/Havrilyak.University.WorkWise/WorkWise/Pages/Freelancer/design.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnJlZWxhbmNlclxkZXNpZ24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Work/Lab/Web/WorkWise/Havrilyak.University.WorkWise/WorkWise/Pages/Freelancer/finance.cshtml]
+[C:/Users/Dell Latitude E5570/Desktop/Lab 3/Havrilyak.University.WorkWise/WorkWise/Pages/Freelancer/finance.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnJlZWxhbmNlclxmaW5hbmNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Work/Lab/Web/WorkWise/Havrilyak.University.WorkWise/WorkWise/Pages/Freelancer/legal.cshtml]
+[C:/Users/Dell Latitude E5570/Desktop/Lab 3/Havrilyak.University.WorkWise/WorkWise/Pages/Freelancer/legal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnJlZWxhbmNlclxsZWdhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Work/Lab/Web/WorkWise/Havrilyak.University.WorkWise/WorkWise/Pages/Freelancer/programing.cshtml]
+[C:/Users/Dell Latitude E5570/Desktop/Lab 3/Havrilyak.University.WorkWise/WorkWise/Pages/Freelancer/programing.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnJlZWxhbmNlclxwcm9ncmFtaW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Work/Lab/Web/WorkWise/Havrilyak.University.WorkWise/WorkWise/Pages/Freelancer/translator.cshtml]
+[C:/Users/Dell Latitude E5570/Desktop/Lab 3/Havrilyak.University.WorkWise/WorkWise/Pages/Freelancer/translator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnJlZWxhbmNlclx0cmFuc2xhdG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Work/Lab/Web/WorkWise/Havrilyak.University.WorkWise/WorkWise/Pages/Index.cshtml]
+[C:/Users/Dell Latitude E5570/Desktop/Lab 3/Havrilyak.University.WorkWise/WorkWise/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Work/Lab/Web/WorkWise/Havrilyak.University.WorkWise/WorkWise/Pages/Kabinet.cshtml]
+[C:/Users/Dell Latitude E5570/Desktop/Lab 3/Havrilyak.University.WorkWise/WorkWise/Pages/Kabinet.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS2FiaW5ldC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Work/Lab/Web/WorkWise/Havrilyak.University.WorkWise/WorkWise/Pages/PageFreelancer/freelancer.programing.cshtml]
+[C:/Users/Dell Latitude E5570/Desktop/Lab 3/Havrilyak.University.WorkWise/WorkWise/Pages/PageFreelancer/freelancer.programing.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZUZyZWVsYW5jZXJcZnJlZWxhbmNlci5wcm9ncmFtaW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Work/Lab/Web/WorkWise/Havrilyak.University.WorkWise/WorkWise/Pages/Privacy.cshtml]
+[C:/Users/Dell Latitude E5570/Desktop/Lab 3/Havrilyak.University.WorkWise/WorkWise/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Work/Lab/Web/WorkWise/Havrilyak.University.WorkWise/WorkWise/Pages/SearchForEmployer.cshtml]
+[C:/Users/Dell Latitude E5570/Desktop/Lab 3/Havrilyak.University.WorkWise/WorkWise/Pages/SearchForEmployer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VhcmNoRm9yRW1wbG95ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Work/Lab/Web/WorkWise/Havrilyak.University.WorkWise/WorkWise/Pages/SearchForFreelancers.cshtml]
+[C:/Users/Dell Latitude E5570/Desktop/Lab 3/Havrilyak.University.WorkWise/WorkWise/Pages/SearchForFreelancers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VhcmNoRm9yRnJlZWxhbmNlcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Work/Lab/Web/WorkWise/Havrilyak.University.WorkWise/WorkWise/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Dell Latitude E5570/Desktop/Lab 3/Havrilyak.University.WorkWise/WorkWise/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Work/Lab/Web/WorkWise/Havrilyak.University.WorkWise/WorkWise/Pages/SingIN.cshtml]
+[C:/Users/Dell Latitude E5570/Desktop/Lab 3/Havrilyak.University.WorkWise/WorkWise/Pages/SingIN.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2luZ0lOLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Work/Lab/Web/WorkWise/Havrilyak.University.WorkWise/WorkWise/Pages/SingUP.cshtml]
+[C:/Users/Dell Latitude E5570/Desktop/Lab 3/Havrilyak.University.WorkWise/WorkWise/Pages/SingUP.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2luZ1VQLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Work/Lab/Web/WorkWise/Havrilyak.University.WorkWise/WorkWise/Pages/_ViewImports.cshtml]
+[C:/Users/Dell Latitude E5570/Desktop/Lab 3/Havrilyak.University.WorkWise/WorkWise/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Work/Lab/Web/WorkWise/Havrilyak.University.WorkWise/WorkWise/Pages/_ViewStart.cshtml]
+[C:/Users/Dell Latitude E5570/Desktop/Lab 3/Havrilyak.University.WorkWise/WorkWise/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Work/Lab/Web/WorkWise/Havrilyak.University.WorkWise/WorkWise/Pages/Shared/_Layout.cshtml]
+[C:/Users/Dell Latitude E5570/Desktop/Lab 3/Havrilyak.University.WorkWise/WorkWise/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-h01b1csmse

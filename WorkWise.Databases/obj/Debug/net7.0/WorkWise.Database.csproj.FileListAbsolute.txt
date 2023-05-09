@@ -42,3 +42,22 @@ C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\obj\De
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\obj\Debug\net7.0\WorkWise.Database.genruntimeconfig.cache
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\obj\Debug\net7.0\ref\WorkWise.Database.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\appsettings.Production.json
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\WorkWise.Database.deps.json
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\WorkWise.Database.runtimeconfig.json
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\WorkWise.Database.dll
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\WorkWise.Database.pdb
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\WorkWise.Model.dll
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\WorkWise.Model.pdb
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Databases\obj\Debug\net7.0\WorkWise.Database.csproj.AssemblyReference.cache
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Databases\obj\Debug\net7.0\WorkWise.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Databases\obj\Debug\net7.0\WorkWise.Database.AssemblyInfoInputs.cache
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Databases\obj\Debug\net7.0\WorkWise.Database.AssemblyInfo.cs
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Databases\obj\Debug\net7.0\WorkWise.Database.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Databases\obj\Debug\net7.0\WorkWise.Database.csproj.CopyComplete
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Databases\obj\Debug\net7.0\WorkWise.Database.dll
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Databases\obj\Debug\net7.0\refint\WorkWise.Database.dll
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Databases\obj\Debug\net7.0\WorkWise.Database.pdb
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Databases\obj\Debug\net7.0\WorkWise.Database.genruntimeconfig.cache
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Databases\obj\Debug\net7.0\ref\WorkWise.Database.dll
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\WorkWise.Core.dll
+C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\WorkWise.Core.pdb

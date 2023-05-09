@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VgIGYZG2e5syLv5RQp6eMxVWy4nXrRMvTbLzKJ/IfAXsPf0ASY076VqHiTmcjrvoKZ3aac653qqdLCSkfTYX5Q==",
+  "dgSpecHash": "ut8HQ0PQIvFiVtFlvD3D5ekRRH/ft1YklBBnSuU+1JdyPKrGbqZPPVt8gSQh/Uh2BSevVZoAIAfqZqFJiPULmg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dell Latitude E5570\\Desktop\\Lab 3\\Havrilyak.University.WorkWise\\WorkWise\\WorkWise.csproj",
   "expectedPackageFiles": [
@@ -17,8 +17,6 @@
     "C:\\Users\\Dell Latitude E5570\\.nuget\\packages\\microsoft.applicationinsights.perfcountercollector\\2.21.0\\microsoft.applicationinsights.perfcountercollector.2.21.0.nupkg.sha512",
     "C:\\Users\\Dell Latitude E5570\\.nuget\\packages\\microsoft.applicationinsights.windowsserver\\2.21.0\\microsoft.applicationinsights.windowsserver.2.21.0.nupkg.sha512",
     "C:\\Users\\Dell Latitude E5570\\.nuget\\packages\\microsoft.applicationinsights.windowsserver.telemetrychannel\\2.21.0\\microsoft.applicationinsights.windowsserver.telemetrychannel.2.21.0.nupkg.sha512",
-    "C:\\Users\\Dell Latitude E5570\\.nuget\\packages\\microsoft.aspnet.identity.core\\2.2.3\\microsoft.aspnet.identity.core.2.2.3.nupkg.sha512",
-    "C:\\Users\\Dell Latitude E5570\\.nuget\\packages\\microsoft.aspnet.identity.entityframework\\2.2.3\\microsoft.aspnet.identity.entityframework.2.2.3.nupkg.sha512",
     "C:\\Users\\Dell Latitude E5570\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.5\\microsoft.aspnetcore.cryptography.internal.7.0.5.nupkg.sha512",
     "C:\\Users\\Dell Latitude E5570\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.5\\microsoft.aspnetcore.cryptography.keyderivation.7.0.5.nupkg.sha512",
     "C:\\Users\\Dell Latitude E5570\\.nuget\\packages\\microsoft.aspnetcore.hosting\\2.1.1\\microsoft.aspnetcore.hosting.2.1.1.nupkg.sha512",
@@ -221,26 +219,5 @@
     "C:\\Users\\Dell Latitude E5570\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\Dell Latitude E5570\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Microsoft.AspNet.Identity.Core 2.2.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
-      "libraryId": "Microsoft.AspNet.Identity.Core",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Microsoft.AspNet.Identity.EntityFramework 2.2.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
-      "libraryId": "Microsoft.AspNet.Identity.EntityFramework",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  "logs": []
 }

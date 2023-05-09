@@ -141,6 +141,7 @@ Application Insights
 ## Lab 3 
 What was done
 
+
 Added backend:
  - connected to azure DB
  - created Migrations
@@ -148,6 +149,7 @@ Added backend:
  - Encode password (BCrypt)
 
 Student : Dzirba Bohdan
+
 
 GitHub: https://github.com/Freybii/Fluentify
 

@@ -153,4 +153,4 @@ Student : Dzirba Bohdan
 
 GitHub: https://github.com/Freybii/Fluentify
 
-Link Pull request 
+Link Pull request: https://github.com/Gavruk12345/Havrilyak.University.WorkWise/pull/1

@@ -91,3 +91,7 @@ h1 {
         border: 2px solid green;
     }
 
+.card a {
+    text-decoration: none;
+    color: inherit;
+}

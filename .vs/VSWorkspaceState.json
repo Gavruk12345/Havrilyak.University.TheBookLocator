@@ -2,11 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\WorkWise",
-    "\\WorkWise\\Models",
+    "\\WorkWise.Databases",
     "\\WorkWise\\Pages",
     "\\WorkWise\\wwwroot",
     "\\WorkWise\\wwwroot\\css"
   ],
-  "SelectedNode": "\\WorkWise\\Pages\\Index.cshtml",
+  "SelectedNode": "\\WorkWise.Databases\\StoreDbContext.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -193,4 +193,8 @@ h1 {
     vertical-align: middle; /* для вирівнювання за вертикаллю */
     margin-right: 20px; /* для додавання відстані між елементами */
 }
+.card a {
+    text-decoration: none;
+    color: inherit;
+}
 

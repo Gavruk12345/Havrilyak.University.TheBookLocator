@@ -15,21 +15,12 @@ D:\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\obj\Debug\n
 D:\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\obj\Debug\net7.0\WorkWise.Database.pdb
 D:\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\obj\Debug\net7.0\WorkWise.Database.genruntimeconfig.cache
 D:\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\obj\Debug\net7.0\ref\WorkWise.Database.dll
-C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\WorkWise.deps.json
-C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\WorkWise.runtimeconfig.json
-C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\appsettings.Development.json
-C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\appsettings.json
-C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\Pages\Properties\launchSettings.json
-C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\WorkWise.staticwebassets.runtime.json
-C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\WorkWise.exe
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\WorkWise.Database.deps.json
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\WorkWise.Database.runtimeconfig.json
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\WorkWise.Database.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\WorkWise.Database.pdb
-C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\WorkWise.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\WorkWise.Model.dll
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\WorkWise.Model.pdb
-C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\WorkWise.pdb
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\obj\Debug\net7.0\WorkWise.Database.csproj.AssemblyReference.cache
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\obj\Debug\net7.0\WorkWise.Database.GeneratedMSBuildEditorConfig.editorconfig
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\obj\Debug\net7.0\WorkWise.Database.AssemblyInfoInputs.cache
@@ -41,7 +32,6 @@ C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\obj\De
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\obj\Debug\net7.0\WorkWise.Database.pdb
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\obj\Debug\net7.0\WorkWise.Database.genruntimeconfig.cache
 C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\obj\Debug\net7.0\ref\WorkWise.Database.dll
-C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\appsettings.Production.json
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\WorkWise.Database.deps.json
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\WorkWise.Database.runtimeconfig.json
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\WorkWise.Database.dll
@@ -61,3 +51,5 @@ C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWis
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Databases\obj\Debug\net7.0\ref\WorkWise.Database.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\WorkWise.Core.dll
 C:\Users\Dell Latitude E5570\Desktop\Lab 3\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\WorkWise.Core.pdb
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\WorkWise.Core.dll
+C:\Work\Lab\Web\WorkWise\Havrilyak.University.WorkWise\WorkWise.Databases\bin\Debug\net7.0\WorkWise.Core.pdb

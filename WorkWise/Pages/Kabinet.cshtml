@@ -15,61 +15,21 @@
 </head>
 <body>
         <nav class="sidebar">
-            <a href="#" class="logo">WorkWise</a>
+            <a href="/Index" class="logo">WorkWise</a>
             <div class="menu-content">
                 <ul class="menu-items">
-                    <div class="menu-title">Your menu title</div>
+                    <div class="menu-title">Menu</div>
                     <li class="item">
-                        <a href="#">Your first link</a>
+                        <a href="#" id="home">Home</a>
                     </li>
                     <li class="item">
-                        <div class="submenu-item">
-                            <span>First submenu</span>
-                            <i class="fa-solid fa-chevron-right"></i>
-                        </div>
-                        <ul class="menu-items submenu">
-                            <div class="menu-title">
-                                <i class="fa-solid fa-chevron-left"></i>
-                                Your submenu title
-                            </div>
-                            <li class="item">
-                                <a href="#">First sublink</a>
-                            </li>
-                            <li class="item">
-                                <a href="#">First sublink</a>
-                            </li>
-                            <li class="item">
-                                <a href="#">First sublink</a>
-                            </li>
-                        </ul>
+                        <a href="#" id="profile">My Profile</a>
                     </li>
                     <li class="item">
-                        <div class="submenu-item">
-                            <span>Second submenu</span>
-                            <i class="fa-solid fa-chevron-right"></i>
-                        </div>
-                        <ul class="menu-items submenu">
-                            <div class="menu-title">
-                                <i class="fa-solid fa-chevron-left"></i>
-                                Your submenu title
-                            </div>
-                            <li class="item">
-                                <a href="#">Second sublink</a>
-                            </li>
-                            <li class="item">
-                                <a href="#">Second sublink</a>
-                            </li>
-                            <li class="item">
-                                <a href="#">Second sublink</a>
-                            </li>
-                            
-                        </ul>
+                        <a href="#">Feedback</a>
                     </li>
                     <li class="item">
-                        <a href="#">Your second link</a>
-                    </li>
-                    <li class="item">
-                        <a href="#">Your third link</a>
+                        <a href="#">Exit</a>
                     </li>
                 </ul>
             </div>
@@ -78,7 +38,11 @@
             <i class="fa-solid fa-bars" id="sidebar-close"></i>
         </nav>
         <main class="main">
-            <h1>Admin Dashboard Content</h1>
+            <section id="home-section">
+                <h1>Hi , </h1>
+            </section>
+
+            
         </main>
 
 
@@ -111,6 +75,42 @@
             });
         });
 
+    </script>
+
+    <script type="text/javascript">
+
+        
+        // Отримуємо посилання на всі кнопки сторінок бічного навігаційного меню
+        var homeButton = document.getElementById("home");
+        var profileButton = document.getElementById("profile");
+        var statisticButton = document.getElementById("statistic");
+        var reviewsButton = document.getElementById("reviews");
+
+        // Отримуємо основний контент сторінки
+        var mainContent = document.querySelector(".main");
+
+        // Функція для прокручування до потрібної секції
+        function scrollToSection(sectionId) {
+            var section = document.getElementById(sectionId);
+            section.scrollIntoView({ behavior: 'smooth' });
+        }
+
+        // Додаємо обробник події для кожної кнопки
+        homeButton.addEventListener("click", function () {
+            scrollToSection("home-section");
+        });
+
+        profileButton.addEventListener("click", function () {
+            scrollToSection("profile-section");
+        });
+
+        statisticButton.addEventListener("click", function () {
+            scrollToSection("statistic-section");
+        });
+
+        reviewsButton.addEventListener("click", function () {
+            scrollToSection("reviews-section");
+        });
     </script>
 
 </body>

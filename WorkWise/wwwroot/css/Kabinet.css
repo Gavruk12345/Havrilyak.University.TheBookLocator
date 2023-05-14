@@ -1,150 +1,128 @@
-/* Import Google font - Poppins */
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
-
+﻿/* Global styles */
 * {
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-    font-family: "Poppins", sans-serif;
 }
 
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 14px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+
+/* Sidebar */
 .sidebar {
+    background-color: #333;
+    color: #fff;
+    width: 250px;
+    height: 100vh;
     position: fixed;
-    height: 100%;
-    width: 260px;
-    background: #11101d;
-    padding: 15px;
-    z-index: 99;
+    top: 0;
+    left: 0;
+    overflow-y: auto;
 }
 
 .logo {
-    font-size: 25px;
-    padding: 0 15px;
-}
-
-.sidebar a {
+    display: block;
+    padding: 20px;
+    font-size: 24px;
+    font-weight: bold;
     color: #fff;
     text-decoration: none;
 }
 
 .menu-content {
-    position: relative;
-    height: 100%;
-    width: 100%;
-    margin-top: 40px;
-    overflow-y: scroll;
-}
-
-    .menu-content::-webkit-scrollbar {
-        display: none;
-    }
-
-.menu-items {
-    height: 100%;
-    width: 100%;
-    list-style: none;
-    transition: all 0.4s ease;
-}
-
-.submenu-active .menu-items {
-    transform: translateX(-56%);
+    padding: 20px;
 }
 
 .menu-title {
-    color: #fff;
-    font-size: 14px;
-    padding: 15px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
 }
 
-.item a,
-.submenu-item {
-    padding: 16px;
-    display: inline-block;
-    width: 100%;
-    border-radius: 12px;
+.menu-items {
+    list-style-type: none;
+    padding: 0;
 }
 
-.item i {
-    font-size: 12px;
+.item {
+    margin-bottom: 10px;
 }
 
-.item a:hover,
-.submenu-item:hover,
-.submenu .menu-title:hover {
-    background: rgba(255, 255, 255, 0.1);
-}
-
-.submenu-item {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    color: #fff;
-    cursor: pointer;
-}
-
-.submenu {
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    top: 0;
-    right: calc(-100% - 26px);
-    height: calc(100% + 100vh);
-    background: #11101d;
-    display: none;
-}
-
-.show-submenu ~ .submenu {
-    display: block;
-}
-
-.submenu .menu-title {
-    border-radius: 12px;
-    cursor: pointer;
-}
-
-    .submenu .menu-title i {
-        margin-right: 10px;
+    .item a {
+        display: block;
+        padding: 10px;
+        color: #fff;
+        text-decoration: none;
+        transition: background-color 0.3s ease;
     }
 
-.navbar,
-.main {
-    left: 260px;
-    width: calc(100% - 260px);
-    transition: all 0.5s ease;
-    z-index: 1000;
-}
+        .item a:hover {
+            background-color: #555;
+        }
 
-.sidebar.close ~ .navbar,
-.sidebar.close ~ .main {
-    left: 0;
-    width: 100%;
-}
-
+/* Navbar */
 .navbar {
-    position: fixed;
+    background-color: #333;
     color: #fff;
-    padding: 15px 20px;
-    font-size: 25px;
-    background-color : black;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    right: 0;
     cursor: pointer;
 }
 
-    .navbar #sidebar-close {
-        cursor: pointer;
-    }
-
+/* Main content */
 .main {
-    position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    z-index: 100;
-    background: #e7f2fd;
+    margin-left: 250px;
+    padding: 20px;
 }
 
-    .main h1 {
-        color: #11101d;
-        font-size: 40px;
-        text-align: center;
+.statistics {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.card {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+    .card h2 {
+        font-size: 18px;
+        font-weight: bold;
+        margin-bottom: 10px;
     }
+
+/* Responsive */
+@media screen and (max-width: 768px) {
+    .sidebar {
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+
+    .main {
+        margin-left: 0;
+    }
+
+    .navbar {
+        display: none;
+    }
+}

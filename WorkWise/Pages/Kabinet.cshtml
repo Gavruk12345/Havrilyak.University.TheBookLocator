@@ -7,70 +7,91 @@
 
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
-    <title>Document</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lykmapipo/themify-icons@0.1.2/css/themify-icons.css">
-    <link rel="stylesheet" href="/css/Kabinet.css">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Havrilyak.LNU.WorkWise.Web</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/WorkWise.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Kabinet.css" asp-append-version="true" />
 </head>
-<body>
+    <body>
         <nav class="sidebar">
             <a href="/Index" class="logo">WorkWise</a>
+
             <div class="menu-content">
                 <ul class="menu-items">
-                    <div class="menu-title">Menu</div>
+                <div  class="menu-title"> Menu</div>
+
                     <li class="item">
-                        <a href="#" id="home">Home</a>
+                        <a href="#">Home</a>
                     </li>
+                  
                     <li class="item">
-                        <a href="#" id="profile">My Profile</a>
+                        <div class="submenu-item">
+                            <span>Profile/Job</span>
+                            <i class="fa-solid fa-chevron-right"></i>
+                        </div>
+                        <ul class="menu-items submenu">
+                            <div class="menu-title">
+                                <i class="fa-solid fa-chevron-left"></i>
+                                Profile/Job
+                            </div>
+                            <li class="item">
+                                <a href="#">Profile</a>
+                            </li>
+                            <li class="item">
+                                <a href="#">Job</a>
+                            </li>
+                            <li class="item">
+                                <a href="#">Coments</a>
+                            </li>
+                        </ul>
                     </li>
                     <li class="item">
                         <a href="#">Feedback</a>
                     </li>
+
                     <li class="item">
                         <a href="#">Exit</a>
                     </li>
                 </ul>
             </div>
         </nav>
+
         <nav class="navbar">
             <i class="fa-solid fa-bars" id="sidebar-close"></i>
         </nav>
-        <main class="main">
-            <section id="home-section">
-            <h1>Welcome, User!</h1>
-            <div class="statistics">
-                <div class="card">
-                    <h2>Stat 1</h2>
-                    <p>Some statistics content here</p>
-                </div>
-                <div class="card">
-                    <h2>Stat 2</h2>
-                    <p>Some statistics content here</p>
-                </div>
-                <div class="card">
-                    <h2>Stat 3</h2>
-                    <p>Some statistics content here</p>
-                </div>
-                <div class="card">
-                    <p>Це випукла карта</p>
-                </div>
-             </div>
-        </section>
-                 
 
-            
+        <main class="main">
+            <h1>Admin Dashboard Content</h1>
         </main>
 
-
-    <script type="text/javascript">
-
-    </script>
-
-    <script type="text/javascript">     
-
-    </script>
+        <script>
+        const sidebar = document.querySelector(".sidebar");
+        const sidebarClose = document.querySelector("#sidebar-close");
+        const menu = document.querySelector(".menu-content");
+        const menuItems = document.querySelectorAll(".submenu-item");
+        const subMenuTitles = document.querySelectorAll(".submenu .menu-title");
+        sidebarClose.addEventListener("click", () => sidebar.classList.toggle("close"));
+        menuItems.forEach((item, index) => {
+            item.addEventListener("click", () => {
+                menu.classList.add("submenu-active");
+                item.classList.add("show-submenu");
+                menuItems.forEach((item2, index2) => {
+                    if (index !== index2) {
+                        item2.classList.remove("show-submenu");
+                    }
+                });
+            });
+        });
+        subMenuTitles.forEach((title) => {
+            title.addEventListener("click", () => {
+                menu.classList.remove("submenu-active");
+            });
+        });
+        </script>
+    
 
 </body>
 </html>

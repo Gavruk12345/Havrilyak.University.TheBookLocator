@@ -118,3 +118,33 @@ h1 {
         .signup label:hover {
             text-decoration: underline;
         }
+
+.google-button {
+    display: inline-block;
+    color: #fff;
+    border-radius: 4px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 12px 24px;
+    transition: background-color 0.3s ease;
+    background-color: white;
+}
+
+    .google-button:hover {
+        background-color: white;
+    }
+
+.google-button-icon {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    margin-right: 8px;
+    background-image: url('https://www.gstatic.com/firebasejs/ui/2.0.0/images/auth/google.svg');
+    background-size: cover;
+}
+
+.google-button-text {
+    vertical-align: middle;
+}

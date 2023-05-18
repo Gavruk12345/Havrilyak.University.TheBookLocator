@@ -1,0 +1,129 @@
+﻿@page
+@model WorkWise.Pages.Employers.CreateJobModel
+@{
+    Layout = null;
+
+}
+
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Havrilyak.LNU.WorkWise.Web</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/WorkWise.styles.css" asp-append-version="true" />
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: auto;
+            margin: 0;
+            padding: 20px;
+            background-image: linear-gradient( 0deg, hsl(0deg 0% 48%) 0%, hsl(344deg 0% 53%) 11%, hsl(344deg 0% 59%) 22%, hsl(344deg 0% 64%) 33%, hsl(344deg 0% 70%) 44%, hsl(344deg 0% 76%) 56%, hsl(344deg 0% 82%) 67%, hsl(344deg 0% 88%) 78%, hsl(344deg 0% 94%) 89%, hsl(0deg 0% 100%) 100% );
+        }
+
+        .card {
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            width: 600px;
+            margin: 0 auto;
+        }
+
+            .card h2 {
+                margin-top: 0;
+            }
+
+            .card label {
+                display: block;
+                margin-bottom: 10px;
+                font-weight: bold;
+            }
+
+            .card input[type="text"],
+            .card textarea,
+            .card select {
+                width: 100%;
+                padding: 8px;
+                border: 1px solid #ccc;
+                border-radius: 3px;
+                box-sizing: border-box;
+            }
+
+            .card .form-row {
+                margin-bottom: 20px;
+            }
+
+                .card .form-row:last-child {
+                    margin-bottom: 0;
+                }
+
+            .card textarea {
+                height: 100px;
+            }
+
+            .card button {
+                background-color: #4CAF50;
+                color: white;
+                border: none;
+                padding: 10px 20px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                margin-right: 10px;
+                cursor: pointer;
+                border-radius: 3px;
+            }
+
+                .card button:last-child {
+                    background-color: #f44336;
+                }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h2>Create job</h2>
+        <form>
+            <div class="form-row">
+                <label for="job">Name job</label>
+                <input type="text" id="job" name="job" required>
+            </div>
+
+            <div class="form-row">
+                <label for="price">Price</label>
+                <input type="text" id="price" name="price" required>
+            </div>
+
+            <div class="form-row">
+                <label for="deadline">Deadline</label>
+                <input type="date" id="deadline" name="deadline" required>
+            </div>
+
+            <div class="form-row">
+                <label for="category">Категорія:</label>
+                <select id="category" name="category" required>
+                    <option value="">Category</option>
+                    <option value="category1">Category 1</option>
+                    <option value="category2">Category 2</option>
+                    <option value="category3">Category 3</option>
+                </select>
+            </div>
+
+            <div class="form-row">
+                <label for="description">Job description</label>
+                <textarea id="description" name="description" required></textarea>
+            </div>
+
+            <div class="form-row">
+                <button type="submit">Send</button>
+                <button type="reset">Beack to home</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

@@ -63,9 +63,89 @@
             <i class="fa-solid fa-bars" id="sidebar-close"></i>
         </nav>
 
-        <main class="main">
-            <h1>Admin Dashboard Content</h1>
-        </main>
+
+
+
+
+    <main class="main">
+        <h1 class="greeting">Welcom , #</h1>
+        <section class="card-section">
+            <div class="card">
+                <h2>Freelancer rating</h2>
+                <p>0/5</p>
+            </div>
+            <div class="card">
+                <h2>Employer rating</h2>
+                <p>0/5</p>
+            </div>
+            <div class="card">
+                <h2>Amount of work given</h2>
+                <p>0</p>
+            </div>
+            <div class="buttons">
+                <button class="html-button" type="button" onclick="redirectToResultsPage()">Take job</button>
+                <button class="html-button" type="button" onclick="redirectToResultspage()">Take job</button>
+            </div>
+        </section>
+
+        <script>
+            function redirectToResultsPage() {
+                window.location.href = "/Employers/CreateJob";
+            }
+        </script>
+
+        <script>
+            function redirectToResultspage() {
+                window.location.href = "/Results";
+            }
+        </script>
+    </main>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         <script>
         const sidebar = document.querySelector(".sidebar");

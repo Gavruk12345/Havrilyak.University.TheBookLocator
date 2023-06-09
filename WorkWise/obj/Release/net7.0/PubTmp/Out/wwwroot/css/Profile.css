@@ -1,0 +1,70 @@
+﻿body{
+
+}
+
+.profile-card {
+    margin-top: 100px;
+    max-width: 600px; /* Задаємо максимальну ширину картки */
+    margin: 0 auto; /* Центруємо картку на сторінці */
+    background-color: #f9f9f9; /* Задаємо колір фону картки */
+    padding: 20px; /* Задаємо відступи всередині картки */
+    border-radius: 10px; /* Задаємо закруглені кути картки */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Додаємо тінь картки */
+}
+
+.profile-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.profile-picture {
+    width: 150px; /* Задаємо ширину профільного зображення */
+    height: 150px; /* Задаємо висоту профільного зображення */
+    border-radius: 50%; /* Задаємо круглу форму для профільного зображення */
+    object-fit: cover; /* Задаємо залиття профільного зображення всередину круга */
+    margin-bottom: 10px;
+}
+
+.profile-name {
+    font-size: 24px; /* Задаємо розмір шрифту для імені */
+    margin-bottom: 5px;
+}
+
+.status {
+    color: green; /* Задаємо зелений колір для статусу "Доступний" */
+}
+
+.profile-details {
+    margin-bottom: 20px;
+}
+
+.section-title {
+    font-size: 18px; /* Задаємо розмір шрифту для заголовків розділів */
+    margin-bottom: 10px;
+}
+
+.profile-description {
+    font-size: 14px; /* Задаємо розмір шрифту для опису профілю */
+    line-height: 1.5; /* Задаємо висоту рядка для кращої читабельності */
+    margin-bottom: 10px;
+}
+
+.skills,
+.experience {
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+    .skills li,
+    .experience li {
+        list-style-type: disc; /* Замінюємо маркери на крапки */
+        margin-bottom: 5px;
+    }
+
+.rating {
+    text-align: center;
+}
+
+.stars {
+    font-size: 24px; 
+}

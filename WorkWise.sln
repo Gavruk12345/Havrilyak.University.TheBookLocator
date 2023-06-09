@@ -13,6 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkWise.Test", "WorkWise.T
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkWise.Core", "WorkWise.Core\WorkWise.Core.csproj", "{B8CD83A6-350A-4544-9EF1-208659C382EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkWiseWeb", "WorkWiseWeb\WorkWiseWeb.csproj", "{7A573DB2-44E8-4BC8-A2ED-A71D2ABF2124}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BAA611A1-9C04-4209-B9C6-B36B44F8ABB2}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +46,10 @@ Global
 		{B8CD83A6-350A-4544-9EF1-208659C382EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8CD83A6-350A-4544-9EF1-208659C382EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8CD83A6-350A-4544-9EF1-208659C382EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A573DB2-44E8-4BC8-A2ED-A71D2ABF2124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A573DB2-44E8-4BC8-A2ED-A71D2ABF2124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A573DB2-44E8-4BC8-A2ED-A71D2ABF2124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A573DB2-44E8-4BC8-A2ED-A71D2ABF2124}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

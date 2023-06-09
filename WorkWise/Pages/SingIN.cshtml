@@ -1,10 +1,8 @@
 ﻿@page
 @model WorkWise.Pages.SignInModel
-@{
-}
 
 <html>
-    <head>
+<head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - Havrilyak.LNU.WorkWise.Web</title>
@@ -13,37 +11,31 @@
     <link rel="stylesheet" href="~/WorkWise.styles.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/css/SingUp.css" asp-append-version="true" />
 </head>
-
-
 <body>
-        <div class="montainer">
-            <input type="checkbox" id="check">
-            <div class="login form">
-                <h1>Login</h1>
-                <form action="#">
-                    <input type="text" placeholder="Enter your email">
-                    <input type="password" placeholder="Enter your password">
-                    <a href="/Forgot">Forgot password?</a>
-                    <input type="button" class="button" value="Login">
-                    <a href="#" class="google-button">
-                        <span class="google-button-icon"></span>
-                        <span class="google-button-text">Увійти з Google</span>
-                    </a>
-
-                </form>
-                <div class="signup">
-                    <span class="signup">
-                        Don't have an account?
-                    <a href="/SingUP">Login</a>
-                    </span>
-                </div>
-                <div class="signup">
-                    <span class="signup">
-                        Go to cabinet
-                    <a href="/Kabinet">Cabinet</a>
-                    </span>
-                </div>
+    <div class="container">
+        <input type="checkbox" id="check">
+        <div class="login form">
+            <h1>Login</h1>
+            <form method="post">
+                <input  placeholder="Enter your email" />
+                <input  placeholder="Enter your password" />
+                <a href="/Forgot">Forgot password?</a>
+                <button type="submit" class="button">Login</button>
+                <input type="button" class="button" value="Continue with google" />
+            </form>
+            <div class="signup">
+                <span class="signup">
+                    Don't have an account?
+                    <a href="/SingUP">Register</a>
+                </span>
+            </div>
+            <div class="signup">
+                <span class="signup">
+                    Go to cabinet
+                    <a href="/Cabinet">Cabinet</a>
+                </span>
             </div>
         </div>
+    </div>
 </body>
 </html>

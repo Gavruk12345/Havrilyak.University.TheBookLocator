@@ -31,32 +31,32 @@
          <div class="content active">
             <h1>WorkWise.<br><span>Programing</span></h1>
             <p>A freelance programmer on the exchange is a person who works on programming projects for a fee, usually using a means of remote communication, which provides the opportunity to collaborate with clients from all over the world and work at a time that is convenient for them.</p>
-            <a href="/Employers/Programing">Go to</a>
+            <a href="/SearchForFreelancers">Go to</a>
          </div>
         <div class="content">
             <h1>WorkWise.<br><span>Design</span></h1>
             <p>A freelance designer on the stock exchange is a creative individual who offers his services in the creation of graphic design, from logos and web design to banners and illustrations, collaborating with clients from all over the world and solving their business challenges in a visual way.</p>
-            <a href="/Freelancer/programing   ">Go to</a>
+            <a href="/SearchForFreelancers">Go to</a>
         </div>
         <div class="content">
             <h1>WorkWise.<br><span>Copiraiting</span></h1>
             <p>A freelance stock copywriter is someone who writes content for a variety of tasks, from articles and blogs to press releases and advertisements, working with clients around the world and serving their business content needs..</p>
-            <a href="/Freelancer/copywriting">Go to</a>
+            <a href="/SearchForFreelancers">Go to</a>
         </div>
         <div class="content">
             <h1>WorkWise.<br><span>Translation</span></h1>
             <p>A freelance translator on the exchange is a person who provides text translation services from one language to another, working with clients from all over the world and helping them to communicate between different cultures and languages. He can do work in any field and in any language depending on his skills and knowledge..</p>
-            <a href="/Freelancer/translator">Go to</a>
+            <a href="/SearchForFreelancers">Go to</a>
         </div>
         <div class="content">
             <h1>WorkWise.<br><span>Business</span></h1>
             <p>A freelance marketer on the stock exchange is an expert in the field of marketing who offers his services to clients from all over the world. It can provide a variety of services such as strategic marketing campaign planning, SEO optimization, social media management and others.</p>
-            <a href="/Freelancer/finance">Go to</a>
+            <a href="/SearchForFreelancers">Go to</a>
         </div>
         <div class="content">
-            <h1>WorkWise.<br><span>LifeStyle</span></h1>
+            <h1>WorkWise.<br><span>Other solutions</span></h1>
             <p>And many other jobs and freelancers are waiting for you.</p>
-            <a href="/Freelancer/SearchForFreelancers">Go to</a>
+            <a href="/SearchForFreelancers">Go to</a>
         </div>
          <div class="media-icons">
              <a href="#"></a>
@@ -75,15 +75,16 @@
      </section>
 
 
-     <script type="text/javascript">
-       //Javascript for video slider navigation
+    <script type="text/javascript">
+        //Javascript for video slider navigation
 
         const btns = document.querySelectorAll(".nav-btn")
         const slides = document.querySelectorAll(".video-slide")
         const contents = document.querySelectorAll(".content")
 
+        var currentSlide = 0;
 
-        var sliderNav = function(manual){
+        var sliderNav = function (manual) {
             btns.forEach((btn) => {
                 btn.classList.remove("active");
             });
@@ -96,20 +97,24 @@
                 content.classList.remove("active");
             });
 
-
             btns[manual].classList.add("active");
             slides[manual].classList.add("active");
             contents[manual].classList.add("active");
-
         }
+
+        var autoSlider = setInterval(function () {
+            currentSlide = (currentSlide + 1) % slides.length;
+            sliderNav(currentSlide);
+        }, 10000);
 
         btns.forEach((btn, i) => {
             btn.addEventListener("click", () => {
+                clearInterval(autoSlider); // Зупиняємо автоматичну зміну слайдів при кліку
                 sliderNav(i);
-
             });
         });
-     </script>
+    </script>
+
 </body>
 <</html>
 

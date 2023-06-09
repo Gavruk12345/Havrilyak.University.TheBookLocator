@@ -1,15 +1,8 @@
 ﻿@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 
-
-
 body {
-    background-image: linear-gradient(200deg, #fef400 0, #ffe400 10%, #ffd100 20%, #ffbc00 30%, #ffa500 40%, #f58d00 50%, #e77612 60%, #d9611c 70%, #cd4f23 80%, #c24029 90%, #b9322f 100%);
-}
-
-
-
-.gol{
     margin-top: 100px;
+    background-image: linear-gradient(200deg, #fef400 0, #ffe400 10%, #ffd100 20%, #ffbc00 30%, #ffa500 40%, #f58d00 50%, #e77612 60%, #d9611c 70%, #cd4f23 80%, #c24029 90%, #b9322f 100%);
 }
 
 .mainteiner {
@@ -35,25 +28,25 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
-
-.content form .user-details {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    margin: 20px 0 12px 0;
-}
-
-.content form .user-in {
+    .content form .user-details {
         display: flex;
         flex-wrap: wrap;
         justify-content: space-between;
         margin: 20px 0 12px 0;
-}
+    }
+
+    .content form .user-in {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin: 20px 0 12px 0;
+    }
 
 form .user-details .input-box {
     margin-bottom: 15px;
     width: calc(100% / 2 - 20px);
 }
+
 form .user-in .input-box {
     margin-bottom: 15px;
     width: calc(100% / 2 - 20px);
@@ -64,8 +57,6 @@ form .input-box span.details {
     font-weight: 500;
     margin-bottom: 5px;
 }
-
-
 
 .user-details .input-box input {
     height: 45px;
@@ -91,10 +82,10 @@ form .input-box span.details {
     transition: all 0.3s ease;
 }
 
-    .user-details .input-box input:focus,
-    .user-details .input-box input:valid {
-        border-color: #F18C3F;
-    }
+.user-details .input-box input:focus,
+.user-details .input-box input:valid {
+    border-color: #F18C3F;
+}
 
 .user-in .input-box input:focus,
 .user-in .input-box input:valid {
@@ -160,7 +151,6 @@ form .button {
     }
 
         form .button input:hover {
-            /* transform: scale(0.99); */
             background-image: linear-gradient(135deg, #ffef93 0, #ffdd8f 16.67%, #ffca8a 33.33%, #f7b684 50%, #e3a37e 66.67%, #d19379 83.33%, #c08675 100%);
         }
 

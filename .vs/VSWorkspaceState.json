@@ -3,10 +3,11 @@
     "",
     "\\WorkWise",
     "\\WorkWise.Databases",
+    "\\WorkWise.Databases\\Service",
     "\\WorkWise\\Pages",
     "\\WorkWise\\wwwroot",
     "\\WorkWise\\wwwroot\\css"
   ],
-  "SelectedNode": "\\WorkWise\\Pages\\Kabinet.cshtml",
+  "SelectedNode": "\\WorkWise.Databases\\Service\\UsersService.cs",
   "PreviewInSolutionExplorer": false
 }

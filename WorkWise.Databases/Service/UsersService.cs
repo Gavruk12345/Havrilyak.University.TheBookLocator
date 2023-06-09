@@ -8,6 +8,7 @@ using WorkWise.Model.Database;
 using System.Text.RegularExpressions;
 using BCrypt.Net;
 using WorkWise.Database;
+using static Microsoft.ApplicationInsights.MetricDimensionNames.TelemetryContext;
 
 namespace WorkWise.Database.Service
 {
@@ -91,5 +92,7 @@ namespace WorkWise.Database.Service
             _dbContext.Dispose();
             _disposed = true;
         }
+
+        
     }
 }

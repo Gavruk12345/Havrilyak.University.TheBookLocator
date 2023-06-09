@@ -1,5 +1,11 @@
-﻿body {
-    background-image: linear-gradient(315deg, #ffffff 0, #ffffff 12.5%, #ffffff 25%, #ffffff 37.5%, #f4f4f4 50%, #d4e1dc 62.5%, #b9d0c6 75%, #a6c1b1 87.5%, #98b59e 100%);
+﻿html, body {
+    height: auto;
+}
+
+body {
+    background-image: linear-gradient( 260deg, hsl(0deg 0% 100%) 0%, hsl(173deg 25% 96%) 22%, hsl(173deg 25% 92%) 33%, hsl(173deg 25% 89%) 42%, hsl(173deg 25% 85%) 50%, hsl(173deg 25% 81%) 58%, hsl(174deg 25% 77%) 67%, hsl(174deg 25% 73%) 78%, hsl(174deg 25% 70%) 100% );
+    margin: 0;
+    padding: 0;
 }
 
 .about {
@@ -7,18 +13,17 @@
     padding: 100px 0px;
 }
 
-.about img{
-    height: auto;
-    width: 420px;
-    padding: 30px;
-}
+    .about img {
+        height: auto;
+        width: 420px;
+        padding: 30px;
+    }
 
-.about text{
-    width: 550px;
+    .about .text {
+        width: 550px;
+    }
 
-}
-
-.main{
+.main {
     width: 1130px;
     max-width: 95%;
     margin: 0 auto;
@@ -61,8 +66,19 @@ button {
     transition: .4s;
     font-family: 'Montserrat', sans-serif;
 }
+
     button:hover {
         background: transparent;
         border: 2px solid #B9E8E8;
         cursor: pointer;
     }
+
+footer {
+    background: #B9E8E8;
+    padding: 20px 0;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}

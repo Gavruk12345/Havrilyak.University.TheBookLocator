@@ -62,5 +62,10 @@ namespace WorkWise.Pages
 
             return new RedirectToPageResult("/Index");
         }
+
+        internal Task EmailAndPasswordMatch(string? email, string? password)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

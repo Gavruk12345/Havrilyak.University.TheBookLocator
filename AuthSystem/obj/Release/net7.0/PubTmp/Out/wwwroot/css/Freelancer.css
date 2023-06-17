@@ -1,0 +1,181 @@
+﻿body {
+    background-image: linear-gradient(225deg, #b7e1d1 0, #b4e1d5 4.17%, #b2e1d9 8.33%, #b0e1de 12.5%, #aee1e2 16.67%, #aee1e6 20.83%, #afe0ea 25%, #b0dfed 29.17%, #b2dff0 33.33%, #b5def3 37.5%, #b9ddf5 41.67%, #bddbf6 45.83%, #c2daf7 50%, #c7d9f7 54.17%, #cdd7f7 58.33%, #d2d6f6 62.5%, #d8d4f4 66.67%, #ddd3f2 70.83%, #e2d2f0 75%, #e7d0ed 79.17%, #ebcfe9 83.33%, #efcee5 87.5%, #f2cee1 91.67%, #f5cddd 95.83%, #f7cdd9 100%);
+}
+
+.row {
+    margin-top: 125px;
+    display: flax;
+    height: 88%;
+    align-items: center;
+}
+
+.col {
+    flex-basis: 50%;
+}
+
+.col2 {
+    flex-basis: 50%;
+    text-align: right;
+}
+
+
+h1 {
+    color: #fff;
+    font-size: 50px;
+}
+
+p {
+    color: #fff;
+    font-size: 20px;
+    line-height: 15px;
+}
+
+h5 {
+    color: #fff;
+}
+
+.card {
+    box-sizing: border-box;
+    width: calc(25% - 20px);
+    height: 254px;
+    background: rgba(217, 217, 217, 0.58);
+    border: 1px solid white;
+    box-shadow: 12px 17px 51px rgba(0, 0, 0, 0.22);
+    backdrop-filter: blur(6px);
+    border-radius: 17px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.5s;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    user-select: none;
+    font-weight: bolder;
+    color: black;
+    margin: 10px;
+}
+
+    .card:hover {
+        border: 1px solid white;
+        transform: scale(1.05);
+    }
+
+    .card:active {
+        transform: scale(0.95) rotateZ(1.7deg);
+    }
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+    width: 100%;
+    margin: 20px 0;
+    flex-basis: calc(25% - 20px);
+}
+
+    .card-container:nth-child(2) .card {
+        margin-top: 40px;
+    }
+
+@media screen and (max-width: 1024px) {
+    .card {
+        width: calc(33.33% - 20px);
+    }
+
+    .card-container {
+        flex-basis: calc(33.33% - 20px);
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .card {
+        width: calc(50% - 20px);
+    }
+
+    .card-container {
+        flex-basis: calc(50% - 20px);
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .card {
+        width: 100%;
+    }
+
+    .card-container {
+        flex-basis: 100%;
+    }
+}
+/*============================================================================*/
+
+.card1 {
+    background-image: url(/image/Image_frelancerCatalog/programing.jpg);
+    background-size: cover;
+}
+
+.card2 {
+    background-image: url(/image/Image_frelancerCatalog/Design.jpg);
+    background-size: cover;
+}
+
+.card3 {
+    background-image: url(/image/Image_frelancerCatalog/Finance.jpg);
+    background-size: cover;
+}
+
+.card4 {
+    background-image: url(/image/Image_frelancerCatalog/admin_suport.jpg);
+    background-size: cover;
+}
+
+.card5 {
+    background-image: url(/image/Image_frelancerCatalog/legal.jpg);
+    background-size: cover;
+}
+
+.card6 {
+    background-image: url(/image/Image_frelancerCatalog/Writen.jpg);
+    background-size: cover;
+}
+
+.card7 {
+    background-image: url(/image/Image_frelancerCatalog/translate.jpg);
+    background-size: cover;
+}
+
+.card8 {
+    background-image: url(/image/Image_frelancerCatalog/architect.jpg);
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*-----------------------------------------------------------------------------------------*/
+button {
+    background: #B9E8E8;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    transition: .4s;
+    font-family: 'Montserrat', sans-serif;
+}
+
+    button:hover {
+        background: transparent;
+        border: 2px solid #B9E8E8;
+        cursor: pointer;
+    }
